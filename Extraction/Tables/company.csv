@@ -1,0 +1,550 @@
+,company_id,Company Name,Estab_year,Employees_count
+0,5191,Axis Bank,1994,More than 1000
+1,9747,Carnera Technologies,2018,50 - 200
+2,6393,Concentrix,1983,More than 1000
+3,8208,epiFi,2019,50 - 200
+4,5851,NxtWave,2020,More than 1000
+5,5130,Powerplay,2020,50 - 200
+6,6530,Amazon Devices,1994,More than 1000
+7,1527,CarDekho,2008,More than 1000
+8,3730,Digit88 Technologies,2014,50 - 200
+9,9675,Jupiter,2019,50 - 200
+10,8728,mPokket,2016,More than 1000
+11,5947,Plivo,2011,50 - 200
+12,2556,Bombay Shaving Company,2015,50 - 200
+13,9462,CreditVidya,2013,50 - 200
+14,6014,Fintellix Solutions,2008,200 - 500
+15,5388,GoKiwi,2023,10--50
+16,2745,HealthAsyst,1999,200 - 500
+17,8609,Komprise,2014,10--50
+18,6897,Miles Education,2011,50 - 200
+19,2040,Office Banao,2021,10--50
+20,9763,Unocoin,2013,50 - 200
+21,8579,Automovill,2015,10--50
+22,7011,Cequence Security,2014,50 - 200
+23,9251,Clario,1990,More than 1000
+24,1856,MSD Technologies,2012,10--50
+25,8491,Nab,1981,More than 1000
+26,5969,Quick Visa Solutions,2015,10--50
+27,6788,Accenture,1989,More than 1000
+28,4500,Bajaj Finserv,2007,More than 1000
+29,6333,Einfochips,1994,More than 1000
+30,5804,Galaxy Office Automation,1987,200 - 500
+31,7216,Hevo Data,2017,200 - 500
+32,6086,HomeCapital,2017,10--50
+33,4759,NeuralGarage,2021,10--50
+34,9360,QuickSell,2017,0 - 10
+35,1749,Acko,2017,500 - 1000
+36,9676,CASHe,2016,200 - 500
+37,3628,Clari,2012,500 - 1000
+38,7249,D-Techworks,2022,200 - 500
+39,6015,Data Sutram,2018,0 - 10
+40,4436,GoodBarber,2011,10--50
+41,4931,HDFC ERGO,2002,More than 1000
+42,3134,ModMed,2010,More than 1000
+43,6701,Paytm Money,2017,200 - 500
+44,6499,VMC Technologies,2010,50 - 200
+45,8090,Apollo.io,2015,50 - 200
+46,5257,Axi,2007,50 - 200
+47,1422,Delhivery,2011,More than 1000
+48,8938,Fountainhead International B.V.,2010,10--50
+49,4303,Havells India,1983,More than 1000
+50,6730,Netradyne,2015,50 - 200
+51,5246,upGrad,2015,50 - 200
+52,6210,World Compliance Technologies,2011,50 - 200
+53,8936,Akribiz Business Solutions,1997,50 - 200
+54,8234,Asentech,2007,50 - 200
+55,9682,Minutus Computing,2019,10--50
+56,9861,RSPL,1987,More than 1000
+57,9648,Tower Research Capital,1998,500 - 1000
+58,5014,Univariety,2011,50 - 200
+59,2196,Ziroh Labs,2016,0 - 10
+60,6319,Zoomcar,2012,200 - 500
+61,2531,Deutsche Telekom Digital Labs,2018,More than 1000
+62,2199,Live Your Best Life,2022,50 - 200
+63,1192,NiYO Solutions,2015,200 - 500
+64,8936,Ola,2011,More than 1000
+65,9046,Persistent Systems,1990,More than 1000
+66,7781,Preqin,2003,200 - 500
+67,6014,Pure Storage,2009,More than 1000
+68,9810,QuEST Global,1991,More than 1000
+69,7742,Toddle,2019,50 - 200
+70,8007,BetterPlace,2015,500 - 1000
+71,6073,Blinkit,2013,More than 1000
+72,6136,Flowace,2018,10--50
+73,7011,Gensol Group,2007,50 - 200
+74,4339,JP Morgan,1900,More than 1000
+75,5480,MyMoney,2022,0 - 10
+76,5065,Pariksha,2015,50 - 200
+77,7233,Tessell,2021,10--50
+78,1144,Tredence Inc,2013,500 - 1000
+79,8208,Ankercloud,2018,50 - 200
+80,5192,Booming Bulls Academy,2019,50 - 200
+81,4069,Juntrax Solutions,2016,0 - 10
+82,7664,Kognitos,2021,10--50
+83,6243,RedDoorz,2015,50 - 200
+84,5286,The Famous,2021,0 - 10
+85,3470,Unacademy,2015,More than 1000
+86,1733,VerSe Innovation,2007,500 - 1000
+87,4207,Firefly Fire Pumps,1985,50 - 200
+88,3900,Happiest Minds Technologies,2011,More than 1000
+89,8931,LTIMindtree,1996,More than 1000
+90,5500,PhonePe,2015,More than 1000
+91,4639,Story Digital,2017,10--50
+92,1831,Triomics,2020,10--50
+93,6091,Awign,2016,200 - 500
+94,7429,Backbase,2003,More than 1000
+95,1200,Codincity,2021,50 - 200
+96,9359,Head Digital Works,2005,200 - 500
+97,5365,Magic Bus India Foundation,1999,More than 1000
+98,4484,OvalEdge,2013,200 - 500
+99,4782,Zluri,2020,0 - 10
+100,8497,Altimetrik,2012,More than 1000
+101,8831,Crayon Data,2012,50 - 200
+102,1575,JFrog,2008,500 - 1000
+103,6271,LogiNext,2014,50 - 200
+104,9913,Nelito,1995,More than 1000
+105,8025,OptIQ.AI,2021,0 - 10
+106,9535,Uber,2009,More than 1000
+107,7961,Calsoft,1998,500 - 1000
+108,7631,Cars24,2015,More than 1000
+109,5236,IndiaMART InterMESH,1999,More than 1000
+110,5896,Sopra Banking Software,2012,More than 1000
+111,6569,VVDN Technologies,2007,More than 1000
+112,2402,Aasaanjobs,2014,200 - 500
+113,3942,Auto Mechanics,2023,50 - 200
+114,1134,Moolya Software Testing,2010,50 - 200
+115,1418,RKS Cloud,2020,10--50
+116,5895,Shaadi.com,1994,More than 1000
+117,4309,Annalect,2010,More than 1000
+118,8188,Arzooo.com,2018,500 - 1000
+119,8330,Dish Network Technologies,2005,500 - 1000
+120,8947,Global Logics,2014,0 - 10
+121,2681,KreedOn,2015,10--50
+122,2258,Lifesight,2017,50 - 200
+123,5783,Livekeeping,2015,50 - 200
+124,3044,PubMatic,2006,500 - 1000
+125,9219,Simility,2014,50 - 200
+126,8743,Avataar,2014,200 - 500
+127,8664,Enhops,2015,50 - 200
+128,5253,Intuit,1983,More than 1000
+129,8522,OneShield,1999,200 - 500
+130,3759,Wipro,1945,More than 1000
+131,6796,Allen Career Institute,1988,More than 1000
+132,1796,Carrier,1915,More than 1000
+133,8917,Junglee Games,2012,200 - 500
+134,7119,PayU,2011,500 - 1000
+135,6706,Pluralsight,2004,More than 1000
+136,1898,Saara,2019,10--50
+137,7314,Wayfair,2002,More than 1000
+138,9727,Aspire Proptech,2017,10--50
+139,1688,Beyond,2013,50 - 200
+140,1046,Gigmos,2018,50 - 200
+141,8588,Hatica,2019,10--50
+142,2074,Nuclei,2018,50 - 200
+143,4214,Perennial Systems,2006,200 - 500
+144,2404,Prishusoft,2012,10--50
+145,6971,Arintra,2020,10--50
+146,8377,Ayu Health,2019,10--50
+147,3384,Flatworld Solutions,2002,More than 1000
+148,9442,Motilal Oswal Financial Services,1987,More than 1000
+149,5901,Paypal,1998,More than 1000
+150,9006,Quant Capital,2008,
+151,3650,Eka.care,2021,10--50
+152,1714,RadicalStart,2017,10--50
+153,7231,TELUS International,2003,More than 1000
+154,5385,Tesco,2004,More than 1000
+155,6820,Thoucentric,2015,200 - 500
+156,1847,Toyota,1937,More than 1000
+157,5283,Zenskar,2022,0 - 10
+158,4899,Zetwerk,2017,More than 1000
+159,8617,GO MO Group AB,2014,
+160,2924,Keka HR,2016,50 - 200
+161,8562,LearningMate,2001,500 - 1000
+162,1111,Leucine,2017,10--50
+163,2103,MOBtexting,2012,50 - 200
+164,5677,Wiser Solutions,2012,
+165,2544,Aditya Birla Fashion and Retail,1997,More than 1000
+166,7118,Chola,1978,More than 1000
+167,4771,InsourceIndia,2019,0 - 10
+168,1755,Jar,2020,50 - 200
+169,2665,Jeavio,2015,50 - 200
+170,7087,Jupiter Technologies,1995,50 - 200
+171,9168,NeoDove Technologies,2020,10--50
+172,1862,Trusting Social,2013,50 - 200
+173,8788,Benham & Reeves,1958,50 - 200
+174,6188,Centre for Computational Technologies,2006,50 - 200
+175,7350,Infosec Ventures,2020,50 - 200
+176,6736,Light & Wonder,2004,More than 1000
+177,5504,Navi Technologies,2019,50 - 200
+178,3849,SalezShark,2014,50 - 200
+179,2704,BYJU'S,2011,More than 1000
+180,4364,censhare,2001,200 - 500
+181,7173,Eglaf Technology,2018,10--50
+182,4460,Foxtale,2021,10--50
+183,1374,Freshworks,2010,More than 1000
+184,1625,Indium Software,1999,More than 1000
+185,4465,Open Financial Technologies,2017,200 - 500
+186,7518,Piramal Capital & Housing Finance,2017,More than 1000
+187,2086,Rubico,2003,50 - 200
+188,4227,2Factor,2015,0 - 10
+189,2254,Brandzbix Technologies,2019,0 - 10
+190,4240,Rezolve AI,2017,50 - 200
+191,3596,Sunflowee Biztech,2019,10--50
+192,1148,Swimlane,2014,200 - 500
+193,4765,XIPHIAS Immigration,2009,200 - 500
+194,5583,Adaptive,1994,10--50
+195,1235,Heart It Out,2018,50 - 200
+196,3304,Market Pulse Technologies,2015,10--50
+197,6888,Probe CX,1979,More than 1000
+198,7060,Squareshift,2019,10--50
+199,2488,ASAP Realtech,2022,10--50
+200,9416,D. E. Shaw,1988,More than 1000
+201,6507,RupiCard,2022,0 - 10
+202,6213,Shivam Medisoft Services,2002,200 - 500
+203,4060,Symphony Talent,2016,200 - 500
+204,4980,VFI SLK,2019,500 - 1000
+205,2524,Grey Chain,2016,50 - 200
+206,4302,ITech Software Solution,2007,50 - 200
+207,9506,ManasIO,2019,0 - 10
+208,7270,Providence,1993,More than 1000
+209,1790,Purview,2010,More than 1000
+210,6127,Nadcab Labs,2015,50 - 200
+211,2137,Strata,2019,10--50
+212,5135,Treflo,2019,10--50
+213,1094,Walmart Global Tech India,1962,More than 1000
+214,6542,Bidgely,2010,200 - 500
+215,2427,Deloitte,1845,More than 1000
+216,8844,Epsilon,2015,More than 1000
+217,8201,EY,1989,More than 1000
+218,2698,NoBroker,2014,More than 1000
+219,7551,Trigent Software,1995,More than 1000
+220,9827,Bizongo,2014,200 - 500
+221,6817,Impact Analytics,2015,50 - 200
+222,3377,Kyndryl,2021,More than 1000
+223,9802,Learning Routes,2016,50 - 200
+224,7328,Proxgy,2020,10--50
+225,1662,Saras Analytics,2016,10--50
+226,4700,ANZ Bank,1900,More than 1000
+227,5831,eShopbox,2012,50 - 200
+228,1477,FaithPLM Solutions,2008,0 - 10
+229,6082,Fanatics,2002,More than 1000
+230,2981,GIST,2011,10--50
+231,6818,Simplotel,2013,10--50
+232,9800,Svadhin Solutions,2016,0 - 10
+233,8159,Akamai,1998,500 - 1000
+234,8652,Brototype,2019,50 - 200
+235,9279,CAW Studios,2017,50 - 200
+236,8198,Critical Mass,1996,More than 1000
+237,6920,Hike Education,2014,50 - 200
+238,3267,Kotak Mahindra Bank,1985,More than 1000
+239,3478,Nanonets,2016,10--50
+240,1389,Numadic,2016,50 - 200
+241,3844,Beta Makers Lab,2020,10--50
+242,1553,CoreLogic,2010,More than 1000
+243,3456,Hiver,2011,50 - 200
+244,6198,insightsoftware,2018,More than 1000
+245,1080,Oliver Wyman,1984,More than 1000
+246,4424,oorja,2023,10--50
+247,9634,AlgoShack,2018,200 - 500
+248,1682,Capgemini,1967,More than 1000
+249,2819,CHEManager,1992,200 - 500
+250,9877,Eightfold AI,2016,200 - 500
+251,7172,Hotstar,2015,500 - 1000
+252,5455,LinkedIn,2002,More than 1000
+253,4104,Mirafra Technologies,2004,More than 1000
+254,9396,Synergy Softwares,1993,50 - 200
+255,5569,Bullsmart,2022,10--50
+256,5033,Hitachi India,1930,More than 1000
+257,4331,K D Aher Building Systems,1993,50 - 200
+258,4293,Lets Influence,2018,10--50
+259,9050,MindTickle,2012,200 - 500
+260,9337,MyBillBook (FloBiz),2019,200 - 500
+261,9038,SandV Capitals,2020,0 - 10
+262,9254,1mg,2015,500 - 1000
+263,8323,Anudip Foundation,2007,200 - 500
+264,8546,Lokal,2018,50 - 200
+265,4010,myTVS Accessories,2011,50 - 200
+266,2505,Porter,2014,500 - 1000
+267,9320,SyManSys Technologies India,2013,50 - 200
+268,3351,Deutsche Bank,1900,More than 1000
+269,7759,Fuel Marcom,2011,10--50
+270,3524,Goldcast,2020,0 - 10
+271,2507,Kripya Solutions,2006,
+272,8407,Max Life Insurance,2000,More than 1000
+273,4260,PixelPhant,2016,10--50
+274,4680,AXA,1995,More than 1000
+275,1144,Learning Shala,2018,50 - 200
+276,7618,New Street Technologies,2017,10--50
+277,6021,PhysicsWallah,2014,More than 1000
+278,7258,Thrillophilia,2010,500 - 1000
+279,9742,TLC Relationship Management,2002,500 - 1000
+280,1679,Bodycraft Salon Spa and Clinic,1997,500 - 1000
+281,3830,ShopSe,2019,50 - 200
+282,7538,Wakefit,2014,50 - 200
+283,3272,Bullspree,2020,10--50
+284,1611,Hettich India,2001,200 - 500
+285,2706,Loop Kitchen,2022,0 - 10
+286,2656,Noodle.ai,2016,200 - 500
+287,1726,Pesto Tech,2017,10--50
+288,8361,Censius AI,2020,0 - 10
+289,9168,Creta Class,2022,50 - 200
+290,9405,Expleo Group,1966,More than 1000
+291,9949,Joveo,2016,50 - 200
+292,7727,Planview,1989,500 - 1000
+293,9452,Revlitix,2022,0 - 10
+294,2544,Shiprocket,2012,500 - 1000
+295,8639,Happay,2012,200 - 500
+296,5014,Ninja Van,2014,More than 1000
+297,2821,ShyftLabs,2018,50 - 200
+298,4230,Squarepoint Capital,2014,50 - 200
+299,4606,Agivant Technologies,2023,10--50
+300,9792,Amazon Ads,2010,More than 1000
+301,9928,Antier Solutions,2003,500 - 1000
+302,1065,PeakAlpha Investment Services,2005,10--50
+303,9447,12th Wonder,2012,50 - 200
+304,2048,Creditnama,2023,10--50
+305,3183,CS Soft Solutions,2009,200 - 500
+306,1957,Koantek,2020,10--50
+307,4374,Licious,2015,More than 1000
+308,4288,Spinny,2015,500 - 1000
+309,3799,Bhash Software Labs,2009,50 - 200
+310,3523,Gallagher and Mohan,2018,50 - 200
+311,2917,Third Wave Coffee,2016,More than 1000
+312,4143,Vymo,2013,50 - 200
+313,1329,Acheron Software Consultancy,2012,50 - 200
+314,3850,Etelligens Technologies,2015,50 - 200
+315,3076,iMumz,2019,0 - 10
+316,7795,Spacewell,1989,200 - 500
+317,4979,UniAcco,2019,200 - 500
+318,5061,Vitech Systems Group,1986,More than 1000
+319,6049,1Bstories,2021,10--50
+320,9289,Bosch India,1922,More than 1000
+321,2461,Clarivate Analytics,2016,More than 1000
+322,7748,Financial Software And Systems,1991,More than 1000
+323,1993,Pibit.ai,2020,10--50
+324,9387,Sign3 Labs,2021,0 - 10
+325,1733,SquadStack,2014,50 - 200
+326,8320,goGlocal,2021,10--50
+327,4506,Nemetschek Group,1963,More than 1000
+328,8567,Optum,2010,
+329,7222,Purplle,2012,200 - 500
+330,9154,Skillovilla,2020,50 - 200
+331,5393,SocialPilot,2014,10--50
+332,8787,WebMobril Technologies,2014,50 - 200
+333,9627,GMR Group,1900,500 - 1000
+334,1352,Klimb.io,2015,10--50
+335,9889,Quince,2018,50 - 200
+336,2457,Rattle,2020,10--50
+337,8268,Refactor Academy,2022,10--50
+338,5553,Reserve Bank Information Technology,2016,50 - 200
+339,5807,Sagarsoft,1996,200 - 500
+340,9807,Corus Infotech,2016,10--50
+341,7203,CYK Hospitalities,2019,10--50
+342,8808,Diagnal Technologies,2015,50 - 200
+343,7066,Lakeba Group,2013,50 - 200
+344,3063,Tata Tele Business Services,1996,More than 1000
+345,3325,TheHouseKraft,2017,10--50
+346,4205,Verdis.ai,2015,10--50
+347,8897,FullThrottle Labs,2018,0 - 10
+348,9495,Illumine,2017,10--50
+349,4647,JiyoFullest,2017,0 - 10
+350,1361,MagickWoods,1993,More than 1000
+351,4182,Neokred,2019,10--50
+352,7138,Sourcy,2021,0 - 10
+353,9254,Chargeup,2019,10--50
+354,9875,Miko,2015,50 - 200
+355,7546,Edvak,2021,50 - 200
+356,7601,Meta Z,2021,10--50
+357,5012,Rakuten,1997,More than 1000
+358,2186,Beamer,2017,10--50
+359,2234,MyGuider,2022,0 - 10
+360,9349,ShareChat,2015,500 - 1000
+361,1271,ACS Solutions,1998,More than 1000
+362,4228,Axis Mutual Fund,2009,500 - 1000
+363,3881,Nykaa,2012,200 - 500
+364,6910,Paytm,2000,More than 1000
+365,9951,A Plus Topper,2017,0 - 10
+366,2346,Accrete.AI,2017,10--50
+367,1744,Brandlabs,2020,0 - 10
+368,8259,Mercari,2013,500 - 1000
+369,2888,Microsoft Bing,2009,200 - 500
+370,4342,Ideapoke,2012,10--50
+371,3180,MakeMyTrip,2000,More than 1000
+372,8175,Surekha Technologies,2011,50 - 200
+373,8270,Viacom18,2007,More than 1000
+374,3769,VMware,1998,More than 1000
+375,8110,AfterLife,2021,0 - 10
+376,9802,Beyondsoft,1995,More than 1000
+377,8840,inFeedo,2016,50 - 200
+378,6908,Regalo Kitchens,2008,200 - 500
+379,5316,Safegold,2017,10--50
+380,4983,SignDesk,2016,200 - 500
+381,3965,Ascendion,2022,More than 1000
+382,2865,Baazi Games,2014,200 - 500
+383,7014,Design Indya Advertising,2008,50 - 200
+384,6455,Entri.app,2015,50 - 200
+385,8014,JioSaavn,2007,50 - 200
+386,9423,Lendingkart,2014,200 - 500
+387,8215,Sloovi,2013,50 - 200
+388,2301,Syfe,2018,50 - 200
+389,7170,Text Mercato,2015,10--50
+390,4988,Urja Communications,1986,50 - 200
+391,2951,Foundation AI,2018,10--50
+392,9567,inai,2021,10--50
+393,2519,Bito,2021,10--50
+394,3899,Codemonk,2018,10--50
+395,7399,InterviewVector,2020,10--50
+396,3891,Kapable,2019,10--50
+397,9802,LenDenClub,2014,10--50
+398,3733,Mantra Labs,2009,50 - 200
+399,8641,Medi Assist,2002,More than 1000
+400,3642,Mercury Solutions Limited,2000,50 - 200
+401,6123,NextBillion AI,2019,10--50
+402,8833,App2food,2014,10--50
+403,2979,Blowhorn,2014,200 - 500
+404,3819,Cholamandalam MS General Insurance,2001,500 - 1000
+405,2492,Cornerstone OnDemand,1999,More than 1000
+406,7568,Luganodes,2022,10--50
+407,5618,Ushur,2014,50 - 200
+408,3208,Amazon,1994,More than 1000
+409,8642,Druva,2008,500 - 1000
+410,9474,GoGroup,2019,50 - 200
+411,6786,Krones,1951,More than 1000
+412,3563,Rippling,2016,More than 1000
+413,9648,Wissen Technology,1997,200 - 500
+414,9673,Addverb Technologies,2016,50 - 200
+415,7447,Hub,2021,50 - 200
+416,2475,Techmaghi,2021,10--50
+417,1875,Terrascope,2022,50 - 200
+418,8849,13DesignStreet,2012,10--50
+419,6239,Cosmonet Solutions,1998,50 - 200
+420,2490,DealShare.in,2018,500 - 1000
+421,4215,NexTurn,2021,50 - 200
+422,6239,Richpanel,2018,10--50
+423,3931,upGrad for Business,2008,50 - 200
+424,9149,Encore Software Services,1998,200 - 500
+425,8283,Healthi,2014,10--50
+426,5939,Masters' Union,2020,10--50
+427,4794,Upstox,2010,200 - 500
+428,1687,Flash,2022,10--50
+429,1472,SBD Automotive,1997,50 - 200
+430,2218,Suki,2017,10--50
+431,9339,HDFC Bank,1994,More than 1000
+432,5131,Kutumb,2020,50 - 200
+433,7808,Qikwork,2020,10--50
+434,7303,ZopSmart Technology,2016,50 - 200
+435,6751,91springboard,2012,50 - 200
+436,2517,Burosys Furniture,2004,10--50
+437,4742,Capri Global Capital,1997,500 - 1000
+438,4497,Kezan Consulting,2022,10--50
+439,1962,Kofluence,2019,10--50
+440,9028,My Tirth India,2023,10--50
+441,4167,Shield,2008,50 - 200
+442,3454,Eclat Engineering,2013,10--50
+443,6715,OpenGrowth,2018,0 - 10
+444,8597,Prodigal,2018,10--50
+445,4203,Walko Food,2012,500 - 1000
+446,5613,Applicate IT Solutions,2014,50 - 200
+447,7319,Emint,2022,0 - 10
+448,1654,Entropik Technologies,2016,50 - 200
+449,6794,Kloudfuse,2020,10--50
+450,3882,SpurX,2017,10--50
+451,4098,Squadcast,2017,10--50
+452,5845,WidasConcepts India,2015,50 - 200
+453,5155,Avaamo,2014,50 - 200
+454,6562,Exeter Premedia Services,2004,50 - 200
+455,3943,Flipkart,2007,More than 1000
+456,9816,MediBuddy,2013,More than 1000
+457,7328,Reliance Nippon Life Insurance,2000,More than 1000
+458,6458,Suez,1880,More than 1000
+459,4967,Dyte,2020,50 - 200
+460,1809,Horizon Broadband,2018,10--50
+461,8238,Continual Engine,2017,50 - 200
+462,4775,ideaForge,2007,
+463,8012,Infogain,1990,More than 1000
+464,3216,Saadia Group,2021,More than 1000
+465,5165,Teradata,1980,More than 1000
+466,1803,Verizon Communications,1983,More than 1000
+467,5007,DAZN,2007,More than 1000
+468,3944,FalconX,2018,50 - 200
+469,9304,Only Much Louder,2001,50 - 200
+470,7900,UnionSys Technologies,2008,50 - 200
+471,9458,Amantya Technologies,2018,200 - 500
+472,5777,msg global solutions,2008,500 - 1000
+473,7989,RxLogix,2010,50 - 200
+474,1197,Sciometrix,2016,50 - 200
+475,3799,Simplilearn,2009,More than 1000
+476,3762,Zoronto,2016,10--50
+477,9001,Credit Repair Cloud,2002,
+478,8459,FourthPointer Services,2012,50 - 200
+479,9150,Mphasis,1998,More than 1000
+480,8518,Mynd Integrated Solutions,2002,500 - 1000
+481,9363,Nagarro,1996,More than 1000
+482,2027,Warpdrive Tech Works,2016,50 - 200
+483,7971,Conviva,2006,200 - 500
+484,5582,Creditas Solutions,2017,50 - 200
+485,2057,DriveU,2015,10--50
+486,4579,Elogix Software,2002,
+487,3469,Perfora,2021,10--50
+488,6344,Thrasio,2018,More than 1000
+489,4009,AlmaBetter,2020,10--50
+490,3864,Augmento Labs,2019,10--50
+491,9568,Neuronimbus Software Services,2004,50 - 200
+492,1536,A Society Consulting,2017,10--50
+493,5419,Acor Infra Projects India,1990,200 - 500
+494,9932,Bristol Myers Squibb,1887,More than 1000
+495,7866,coMakeIT,2006,200 - 500
+496,4391,Fluxon,2017,50 - 200
+497,2859,Moback,2011,50 - 200
+498,7587,Rubrik,2015,500 - 1000
+499,9597,StatusNeo,2019,10--50
+500,3792,CloudThat,2012,200 - 500
+501,3029,InMobi,2007,More than 1000
+502,4071,KnowledgeHut,2011,200 - 500
+503,4468,Recrosoft Technologies,2012,200 - 500
+504,6789,Wecraft Interactive Solutions,2016,10--50
+505,2286,Angel One,1987,More than 1000
+506,8394,BootesNull,2019,10--50
+507,5198,Kinara Capital,2011,500 - 1000
+508,3197,Lal10,2015,10--50
+509,4539,Unified Infotech,2010,50 - 200
+510,3796,Availity,2001,500 - 1000
+511,5646,Goldman Sachs,1869,More than 1000
+512,7934,HCL Technologies,1976,More than 1000
+513,3052,IG,1998,More than 1000
+514,5710,IG India,2004,50 - 200
+515,5992,Kadel Labs,2017,50 - 200
+516,1699,StockGro,2020,10--50
+517,4699,Transerve Technologies,2009,10--50
+518,6983,Datawrkz,2013,10--50
+519,2160,Trika Technologies,2019,50 - 200
+520,4532,Vayavya Labs,2006,50 - 200
+521,4101,Visionet Systems,1995,500 - 1000
+522,8220,Wildcraft,1998,More than 1000
+523,7240,Zymr,2012,200 - 500
+524,8879,Atlassian,2002,More than 1000
+525,8804,Inito,2014,10--50
+526,3593,Mahindra Logistics,2007,More than 1000
+527,1000,CityFurnish,2015,50 - 200
+528,9675,PriceLabs,2014,10--50
+529,9717,Testsigma,2017,10--50
+530,8774,Bright Money,2019,50 - 200
+531,7408,Colmore,2017,50 - 200
+532,3346,HBK,2019,More than 1000
+533,9624,Niral Networks,2019,0 - 10
+534,3743,Merkle Science,2018,10--50
+535,7414,Simpl,2015,500 - 1000
+536,6827,FieldAssist,2014,50 - 200
+537,9254,Ola Electric Mobility,2017,500 - 1000
+538,7146,Plateron,2021,0 - 10
+539,6216,Ajirasoft,2015,10--50
+540,6634,Eli Lilly,1876,More than 1000
+541,5333,ResMed,1989,More than 1000
+542,8447,E2open,2000,More than 1000
+543,4166,GyanDhan,2015,10--50
+544,7564,Memorang Labs,2020,10--50
+545,5846,Sprinklr,2009,More than 1000
+546,9384,The Strategists,2019,10--50
+547,2974,73 Strings,2019,10--50
+548,1017,Ergode,2010,50 - 200

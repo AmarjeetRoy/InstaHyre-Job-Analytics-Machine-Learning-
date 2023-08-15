@@ -1,0 +1,110 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+<head> 
+    <meta charset="UTF-8"> 
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>first page</title> 
+    <style>
+
+#layout{ 
+   position: fixed; 
+   width: 100vw; 
+   background-color: rgb(216, 241, 241); 
+   height: 100vh; 
+   z-index: 99; 
+   top: 0; 
+   left: 0; 
+} 
+ 
+#mainbox{ 
+        position: absolute;
+   background: linear-gradient(90deg, rgba(70,130,169,1) 0%, rgba(116,155,194,1) 65%, rgba(145,200,228,1) 96%);
+    border-radius: 4px;
+    width: 75%;
+    height: 53%;
+    box-shadow: rgba(114, 15, 228, 0.15) 0px 0px 30px 6px;
+    padding: 23px;
+    /* center a div */
+    position: absolute; 
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    border-radius: 50px;
+} 
+ 
+h1{ 
+    color:  rgb(255, 254, 254); 
+    margin-top: 8%; 
+    font-family: 'Lucida Sans Regular',  'Lucida Sans Unicode', Verdana, sans-serif; 
+} 
+
+ #nav>img{ 
+    width: 8%; 
+    margin-left: 5%; 
+ } 
+ 
+
+ 
+ img{ 
+   width: 16px; 
+ } 
+
+ #searchbox{
+        text-align: center;
+    display: flex;
+    justify-content: center;
+ }
+   
+button:hover{ 
+    background-color: rgb(223, 223, 248); 
+ } 
+ 
+ .example input[type=text] {
+  padding: 10px;
+  font-size: 17px;
+  border: 1px solid grey;
+  float: left;
+  width: 80%;
+  border-radius: 30px;
+  background: #f1f1f1;
+}
+
+.example button {
+    float: left;
+    width: 10%;
+    border-radius: 36px;
+    padding: 10px;
+    /* background: #102b529e; */
+background: linear-gradient(90deg, rgba(70,130,169,1) 0%, rgba(116,155,194,1) 65%, rgba(145,200,228,1) 96%);;;
+    color: white;
+    font-size: 17px;
+    border: 1px solid grey;
+    border-left: none;
+    cursor: pointer;
+}
+
+.example button:hover {
+  background: #0b7dda;
+}
+ 
+    </style> 
+</head> 
+<body> 
+         
+    <div  id="layout"> 
+        <div id="mainbox"> 
+                 <h1>Instahyre Job Search</h1> 
+                 <form action="/final_output" method="POST">
+            <div id="searchbox" class="example"> 
+                    <input type="text" name="Traas" placeholder="Eg: Python, Java, Sales">
+                <button type="submit"><i class="fa fa-search"></i></button>
+            </div>        
+        </form>
+        </div> 
+    </div> 
+ 
+</body> 
+</html>

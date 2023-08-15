@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Job Details</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        body {
+            font-family: Helvetica, sans-serif;
+            background: linear-gradient(90deg, rgba(70, 130, 169, 1) 0%, rgba(116, 155, 194, 1) 65%, rgba(145, 200, 228, 1) 96%);
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            background: linear-gradient(90deg, rgba(70, 130, 169, 1) 0%, rgba(116, 155, 194, 1) 65%, rgba(145, 200, 228, 1) 96%);
+            border-radius: 25px;
+            box-shadow: 0px 0px 20px 20px rgba(150, 0, 200, 0.1);
+            padding: 25px;
+            position: absolute;
+            margin: 95px;
+            /* height: auto; */
+            /* width: auto; */
+            display: flex;
+            left: 56%;
+            /* top: 62%; */
+            text-align: center;
+            transform: translate(-69%, 0%);
+            align-content: center;
+            justify-content: center;
+            align-items: center;
+            flex-wrap: nowrap;
+            flex-direction: column;
+         }
+
+        h1 {
+            text-align: center;
+            color: #f8f9fa;
+            margin-bottom: 20px;
+            font-weight:300px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+        }
+
+        th, td {
+            padding: 10px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+
+        a {
+            display: block;
+            font-size: 18px;
+            text-align: right;
+            margin-top: 30px;
+            color: #007BFF;
+            text-decoration: none;
+        }
+
+        a:hover {
+            color: #0056b3;
+            font-weight: bolder;
+        }
+    </style>
+</head>
+<body>
+    
+        <h1>Job Details</h1>
+        <table class="table table-striped">
+            {{ job_data | safe }}
+        </table>
+    </div>
+</body>
+</html>

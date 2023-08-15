@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>second page</title>
+
+    <style>
+        #layout {
+            position: fixed;
+            ;
+            width: 100vw;
+            height: 100vh;
+            z-index: 99;
+            top: 0;
+            left: 0;
+            background-color: rgb(242, 247, 252);
+
+        }
+
+        #inner {
+            background: linear-gradient(90deg, rgba(70, 130, 169, 1) 0%, rgba(116, 155, 194, 1) 65%, rgba(145, 200, 228, 1) 96%);
+            border-radius: 25px;;
+            width: 75%;
+            height: 70%;
+            box-shadow: rgba(114, 15, 228, 0.15) 0px 0px 30px 6px;
+            padding: 23px;
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%, -50%);
+        }
+
+        h1 {
+            color: rgb(251, 251, 252);
+            text-align: center;
+            margin-top: 5%;
+                margin-bottom: 8%;
+            font-family: 'Lucida Sans', 'Lucid  a Sans Unicode', Verdana, sans-serif;
+        }
+        tr{
+            margin-bottom: 0px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        th,
+        td {
+            width: 0px;
+            margin-bottom: 5px;
+            padding: 4px;
+            text-align: left;
+        }
+
+        th {
+            width: 0px;
+            margin-bottom: 5px;
+            padding: 4px;
+            text-align: left;
+        }
+
+        .next-page {
+            text-align: center;
+            margin-top: 8%;
+        }
+
+        button {
+            color: #000000b8;
+            background: #9fcce3;
+            width: 50%;
+            padding: 10px;
+            border: 1px solid #8c8c8c;
+            font-size: 20px;
+            border-radius: 33px;
+        }
+
+        .font-size{
+            font-size: 16px;
+            font-weight: bold;
+        }
+    </style>
+
+</head>
+
+<body>
+
+    <body>
+        <div id="layout">
+            <div id="inner">
+                <h1> Job Prediction Result:</h1>
+                <div class="job1">
+                    <table>
+                    <tr>
+                        <th>Skill:</th>
+                        <td class="font-size">{{ skill }}</td>
+                    </tr>
+                    <tr>
+                        <th>Most Common Experience Level:</th>
+                        <td class="font-size">{{ experience_level }}</td>
+                    </tr>
+                    <tr>
+                        <th>Most Common Industry:</th>
+                        <td class="font-size">{{ industry }}</td>
+                    </tr>
+                    <tr>
+                        <th>Most Common Company Class:</th>
+                        <td class="font-size"> {{ job_class }} </td>
+                    </tr>
+                    <tr>
+                        <th>Total Number of Job Available:</th>
+                        <td class="font-size"> {{ job_count }}</td>
+                    </tr>
+                </table>
+                <div class="next-page">
+                        <button> <a href="/job_details/{{skill}}">Look for all job details</a> <i class="fa fa-forward"></i>
+                        </button>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

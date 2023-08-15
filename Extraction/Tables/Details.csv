@@ -1,0 +1,1001 @@
+,details_id,Involvement,Skills,HR_Name
+0,644,Full Time,"Corporate Sales,Debt Market,Equity Advisory,Mutual Funds,NISM,Sales",Riddhi Thakkar
+1,427,Full Time,"Corporate Sales,Debt Management,Debt Market,Equity Advisory,Mutual Funds,NISM,Sales",Riddhi Thakkar
+2,822,Full Time,"Lead Generation,Sales",Roshni J
+3,354,Full Time,"LinkedIn Sales Navigator,SEO,Social Media Marketing",Roshni J
+4,342,Full Time,"Adobe Launch,CSS,HTML,JavaScript",Deeksha Sharma
+5,555,Full Time,"Corporate Sales,Lead Generation,Sales",Janaki B
+6,341,Full Time,"Corporate Sales,Customer Relationship",Arifulla Gori Mohammad
+7,819,Full Time,"Campus Recruitment,IT Recruitment,Non IT Recruitment,Recruitment",Arifulla Gori Mohammad
+8,618,Full Time,"CRM,Hubspot,Key Account Management,Microsoft Excel,Sales,Salesforce,Stakeholder Management,Zoho CRM",Jayashree Nayak
+9,872,Full Time,"Customer Service,Desktop Troubleshooting,Microsoft Excel,SMB",Jayashree Nayak
+10,892,Full Time,"Content Writing,English Content",Maria Joseph
+11,764,Full Time,"Content Writing,English Content",Maria Joseph
+12,720,Full Time,"Automobile Loans,Commercial Vehicle Loans,Corporate Loans,Loans,Sales",Mehak Sharma
+13,637,Full Time,"Automobile Loans,Corporate Sales,Loans,Sales",Mehak Sharma
+14,380,Full Time,"Automobile Loans,Corporate Sales,Loans,Sales",Mehak Sharma
+15,940,Full Time,"MongoDB,Express.js,Node.js,React.js,Angular",Manju Kumari
+16,808,Full Time,"Digital Marketing,Facebook Marketing,Product Marketing,Retention Management,Social Media Marketing",Shashwat Shukla
+17,304,Full Time,"Clevertap,Google Analytics,Market Research,Marketing Communication,Product Marketing,Tableau",Shashwat Shukla
+18,875,Full Time,"AppsFlyer,Clevertap,Digital Marketing,Facebook Marketing,Google Ads,Performance Marketing,SEM,SEO",Aikya Chakraborty
+19,437,Full Time,"Lead Generation,Sales",Sri Lakshmi Reddy
+20,505,Full Time,"Business Development,Corporate Sales,International Sales,Direct Sales",Consult Bae
+21,151,Full Time,"Vue.js,React.js,JavaScript,HTML,CSS",Priya Desai
+22,360,Full Time,"Java,Spring Boot,Microservices,Data Structures,API Testing",Manju Kumari
+23,938,Full Time,"AWS,VDI,Windows Server,IT Infrastructure,DNS",Consult Bae
+24,917,Full Time,"Product Management,Consumer Software",Priyal Gupta
+25,508,Full Time,".NET,SQL",Sakshi Sahu
+26,845,Full Time,"Business Analysis,Business Development,Power BI,Tableau",Priyanka Kumari
+27,122,Full Time,"Embedded C,Microcontrollers,Embedded Systems,Electronics,C++",Chaithanya Bk
+28,328,Full Time,"3D Modelling,Graphic Design,JavaScript,React.js,three.js",Shreya Gadia
+29,822,Full Time,PHP,Ankita Sharma
+30,273,Full Time,"Embedded C,Embedded Systems",Sraboni Saha
+31,437,Full Time,"Python,CI - CD,Kafka,Ansible,Terraform",Sougat Das
+32,974,Full Time,"Java,Spring,Data Structures,Algorithms,JavaScript",Arpita Dey
+33,459,Full Time,"Java,Spring Boot,Microservices,AWS,MySQL",Deepika Kangokar
+34,139,Full Time,"Node.js,React.js,TypeScript,MongoDB,Cassandra",Deepika Kangokar
+35,801,Full Time,"Java,Spring,Kafka,MySQL,AWS",Deepika Kangokar
+36,480,Full Time,"SQL,Python,Data Modelling,Data Visualization,ETL",Poonam Borah
+37,218,Full Time,"ServiceNow,Requirements Management,Solution Architecture,Compliance Management,Digital Transformation",Richa Upadhyay
+38,728,Full Time,"Power Automate,Microsoft Power Apps,Canvas",Shanmuga Priya G
+39,777,Full Time,"Sales,Direct Sales,Business Development,Tourism",Kajal Pahuja
+40,143,Full Time,"Python,SQL,PySpark,Spark,Data Analysis",Titir Guha Roy
+41,412,Full Time,"Project Management,PMP",Harini M
+42,351,Full Time,"JavaScript,Videography,Video Codecs,Node.js,React.js",K Sravani
+43,206,Full Time,"Cloud Computing,AWS,Azure,CI - CD,AWS CloudFormation",Tamali Ghosh
+44,182,Full Time,"React.js,.NET,C#,SQL",Mythili Achappa
+45,775,Full Time,"Java,Distributed Systems,Microservices,Big Data,Data Structures",Namrata Sharma
+46,727,Full Time,"Java,Distributed Systems,Microservices,Architecture,Big Data",Namrata Sharma
+47,870,Full Time,"PHP,Angular,React.js,Python,MySQL",Sonali Pol
+48,648,Full Time,"Machine Learning,PyTorch,TensorFlow,Computer Vision,Python",Priya Desai
+49,747,Full Time,"Node.js,AWS,Express.js,JavaScript,Microservices",Srishti Rai
+50,925,Full Time,"ETL,Python,Data Warehousing",Titir Guha Roy
+51,288,Full Time,"Employee Engagement,Performance Management,Employee Induction,Grievance Management,Talent Management",Aarthi P
+52,449,Full Time,"Java,Spring",Deepali Rajage
+53,725,Full Time,"iOS,Swift,Objective-C,Xcode,HTML",Aarthi P
+54,874,Full Time,"Python,Machine Learning",Ankita Sharma
+55,467,Full Time,"Partnerships,Content Writing,Strategic Planning,Content Marketing,Category Management",Blessy Fernandes
+56,330,Full Time,"Data Governance,Master Data Management,Data Integration,Data Warehousing,DAMA",Jyotsna Gupta
+57,561,Full Time,IT Support,Swati
+58,704,Full Time,"Java,Algorithms,Elasticsearch,Data Structures",Titir Guha Roy
+59,561,Full Time,"Business Development,Corporate Sales,Direct Sales,Sales",Rashmi Kanta Kumari
+60,940,Full Time,"Automation Testing,SDET,JavaScript,Python,Ruby,Selenium",Vikas Dubey
+61,971,Full Time,"Java,Golang,Data Structures,Algorithms,Python",Stuti Ahuja
+62,383,Full Time,"Automation Testing,SDET,Java,Perl,Selenium,SoapUI",Kriti Nagar
+63,642,Full Time,Instructional Design,Talent Team
+64,956,Full Time,"Category Management,General Management,Operations Management,Vendor Management",Talent Team
+65,793,Full Time,"SAP SD,OTC,CRM",Zoya Khan
+66,406,Full Time,"Java,JavaScript,Angular,J2EE,Spring",Manikandan Sivaraj
+67,638,Full Time,Technical Support,Prasanth Bheeman
+68,333,Full Time,"Java,Spring Boot,Microservices,SQL,PHP",Ankush Thakur
+69,454,Full Time,"Operations Management,High Frequency Trading,Trading,Banking Operations",Niharika Sharma
+70,616,Full Time,"Sales,Sales Operations",Mariyam Khan
+71,955,Full Time,"ASP.NET,.NET,MySQL,JavaScript,CSS",Saba Ansari
+72,170,Full Time,"Power BI,Tableau,Business Analysis",Khushboo Kothari
+73,380,Full Time,"Power BI,Tableau,CRM,Data Analysis,Microsoft Excel",Khushboo Kothari
+74,802,Full Time,"Tally,Zoho Books,Accounting,Finance,Auditing",Vijay Gangarde
+75,224,Full Time,"ATL,BTL,OOH,Brand Management,Marketing",Priya Ayachit
+76,385,Full Time,"Trading,Commodity Trading,High Frequency Trading,Equity Research,Currency Trading",Niharika Sharma
+77,176,Full Time,"Content Marketing,Digital Marketing,Facebook Marketing,Google Ads,Social Media Marketing",Sunitha Mudiraj
+78,116,Full Time,"JavaScript,React Native,Hybrid Apps,TypeScript,React.js",Ismail Yakub Shaikh
+79,940,Full Time,"Customer Interaction,Customer Relationship,Customer Service",Srushti M P
+80,167,Full Time,"Java,Hibernate,J2EE,Spring",Kavita Verma
+81,547,Full Time,Product Management,Jyoti Singh
+82,321,Full Time,"Node.js,Golang",Shrishti Singh
+83,428,Full Time,"React.js,Java,Node.js,Data Structures,SQL",Nikita Rai
+84,628,Full Time,"Salesforce,Quality Assurance",Vijay L
+85,621,Full Time,"Python,Machine Learning,AWS,AWS Lambda,MLOps",Priyadarshini E
+86,325,Full Time,Recruitment,Rohit Bhat
+87,484,Full Time,"Android,BSP,Java,C++,GTS",Vijay Gangarde
+88,287,Full Time,"Information Security,Vulnerability Assessment",Arti Mishra
+89,516,Full Time,"React Native,JavaScript",Sonam Yadav
+90,160,Full Time,"Camunda BPM,Java,BPMN,Spring Boot",Vishal Negi
+91,606,Full Time,"Golang,Java,Node.js,Python,Django",Anjelina Nathaniel
+92,302,Internship,"Automation Testing,Mobile Apps Testing,Performance Testing,SDET,Security Testing",Shatarupa Chakraborti
+93,589,Full Time,"UX Design,Illustrator,Visual Design,InDesign,Photoshop",Pinnacle Consultz
+94,893,Full Time,"C,Java,JavaScript,Angular,J2EE,React.js,Spring",Nikhlaish Bhat Hehimhis
+95,224,Full Time,"Financial Analysis,Chartered Accountant,Taxation,MIS,Loans",Avjyot Kaur Abboveja
+96,225,Full Time,"Node.js,AWS,Algorithms,Data Structures,Golang",Rovena Dsouza
+97,302,Full Time,"Sales,Business Development,Direct Sales,Corporate Communication,Public Relations",Afza Afzal
+98,497,Full Time,"AWS,Python,C,C++,Data Structures",Pratiksha Pandey
+99,731,Full Time,"Databricks,Azure Data Factory,Python,PySpark,ETL",Talent Acquisition Team
+100,941,Full Time,"IT Recruitment,Non IT Recruitment,Recruitment",Lokanath P H
+101,206,Full Time,"Sales,Customer Interaction,Presales,Customer Service,Corporate Sales",Mariyam Khan
+102,837,Full Time,"Java,Python,Node.js",Ankita Sharma
+103,661,Full Time,Product Management,Hemlata Dobhal
+104,448,Internship,"Business Development,Corporate Sales,Direct Sales,International Sales,Sales,Telecalling",Aafrin Sultanak
+105,674,Full Time,"Python,AWS,CI - CD",Priyanka Mahindrakar
+106,218,Full Time,"Ruby on Rails,Data Structures,Algorithms",Gopinath R
+107,513,Full Time,Lead Generation,Dhara Raval
+108,773,Full Time,"Sales,Telecalling,Direct Sales,Business Development,Counselling",Hiba Rahman K
+109,542,Full Time,"Microsoft Excel,Power BI,SQL,Tableau",Khushboo Jain
+110,385,Full Time,"SAS,SPSS",Aishwarya Kurane
+111,753,Full Time,Robotic Process Automation,Amrutha Allimada
+112,428,Full Time,"Business Analysis,BRD,OTC,FSD,Requirements Management",Bhaskar Anand
+113,589,Full Time,"Node.js,AWS,MongoDB,Kafka,Redis",Vishali Vashnavi
+114,429,Full Time,"Kubernetes,AWS,Python,Microservices,CI - CD",Mubashira Sultana
+115,128,Full Time,"Firewalls,Networking,Routing,Switching,BGP,Cisco Firewalls,Juniper Firewall,Juniper Routers,Juniper Switches,OSPF",Esha Jain
+116,165,Full Time,"Ruby on Rails,Data Structures,Algorithms",Gopinath R
+117,773,Full Time,"Content Marketing,Content Writing,English Content",Farzana Q
+118,139,Full Time,"Business Development,Lead Generation,Digital Marketing,Sales,Direct Sales",Dhara Raval
+119,282,Full Time,"Content Writing,English Content",Sakshi Purohit
+120,836,Full Time,".NET,C#",Deepa Rani
+121,767,Full Time,"Automation Testing,Mobile Apps Testing,SDET,Appium,Java,JavaScript",Neha Achhpeliya
+122,995,Full Time,"Java,AWS,Hibernate,MongoDB,Spring Boot",Divya Nair
+123,604,Full Time,"Accounting,Finance,Taxation,Financial Analysis,Financial Reporting,GST,Income Tax,Payroll Management,Tally,TDS",Shashikanth Singapuram
+124,277,Full Time,"Corporate Communication,Public Relations,Media Relations,Public Policy",Ameesha Srivastava
+125,841,Full Time,"Node.js,Golang,AWS",Prakhar Mehrotra
+126,482,Full Time,"Automation Testing,Mobile Apps Testing,Selenium",Rachana Goud
+127,430,Full Time,"Node.js,AWS,Express.js,JavaScript,Microservices",Khushi Dubey
+128,822,Full Time,"Java,Node.js,Python,Algorithms,Data Structures",Pavithra S
+129,447,Full Time,"Node.js,Java,Python,Golang",Rubeen S
+130,727,Full Time,"ETL,Informatica,SQL,Hadoop,Data Modelling",Kusha Bedre
+131,780,Full Time,React.js,Harini M
+132,116,Full Time,"Java,Node.js",Meenakshi Priyadharshini
+133,931,Full Time,"T-SQL,SQL,C#",Sakshi Sahu
+134,671,Full Time,"Java,Linux,Technical Support",Barath Pr
+135,457,Full Time,"Java,Spring Boot,AWS,Python",Aditi Pradhan
+136,260,Full Time,"SAP MM,SAP WMS,Procurement,LIFO,FIFO",Bhaskar Anand
+137,910,Full Time,"Java,Python,Xcode,Appium,Mobile Apps Testing",Simran Manyariya
+138,285,Full Time,"Technical Writing,Content Writing,Digital Marketing,SEO",Swatee Paithankar
+139,144,Full Time,"Golang,Java",Prashant Sagar
+140,678,Full Time,"Spark,Scala,Snowflake,SQL",Kusha Bedre
+141,566,Full Time,"Architecture,Golang,Python,Data Structures,AWS",Anushka Raipuria
+142,317,Full Time,"Microsoft Excel,Python,SQL",Anamika Ojha
+143,938,Full Time,"Java,Spring,PostgreSQL,Kafka,Redis",Yash Singh
+144,802,Full Time,"Business Development,Direct Sales,Sales",Deepshikha Dubey
+145,112,Full Time,"REST Assured,Java,Selenium,Appium,Automation Testing",Nikita Rai
+146,151,Full Time,"Node.js,AWS,Golang,Redis,Kafka",Nikita Rai
+147,188,Full Time,"Quality Assurance,Qualitative Analysis,Quality Management System,Mobile Apps Testing",Akshay Kumar S
+148,394,Full Time,"Sales,Customer Interaction,Business Development,Corporate Communication",Hiba Rahman K
+149,804,Full Time,"Embedded Systems,Kernel Development,Embedded C,I2C,Linux Device Drivers,Linux Internals,SPI,BSP",Arthi Balamurugan
+150,222,Full Time,".NET,C#,SQL Server,Spring,API Testing",Meghana Gargelwar
+151,227,Full Time,"Business Development,Corporate Sales,Direct Sales,Sales",Pallavi Sharma
+152,716,Full Time,"Distributed Systems,Data Structures,Algorithms",Mansi Saxena
+153,883,Full Time,"Distributed Systems,Data Structures,Algorithms",Mansi Saxena
+154,672,Full Time,"DevOps,AWS,TypeScript,Java",Nivetha Senthilkumar
+155,867,Full Time,"Automation Testing,Selenium,Appium,Java,Quality Assurance",Vishali Vashnavi
+156,816,Full Time,"CSS,HTML,JavaScript",Sowjanya Meher
+157,211,Full Time,Product Management,Tasmia Azhar
+158,361,Full Time,"Sales,Telecalling,Direct Sales,Business Development,Counselling",Hiba Rahman K
+159,441,Full Time,"Computer Vision,Machine Learning,Python,Keras,PyTorch,TensorFlow",Khushboo Jain
+160,492,Full Time,"PHP,Wordpress,HTML,CSS,JavaScript",Aishwarya Raj
+161,263,Full Time,"Partnerships,Business Development",Swapnil Nautiyal
+162,427,Full Time,"CI - CD,Linux,Jenkins",Gajendiran M
+163,174,Full Time,".NET,React.js",Amit Rathor
+164,525,Full Time,Corporate Sales,Rahul Tharika
+165,858,Full Time,"International Sales,Sales",Avisha Anand
+166,608,Full Time,"Customer Interaction,Customer Service",Ankita Agarwal
+167,808,Full Time,"API Testing,Python,Automation Testing,SDET,Performance Testing",Shraddha Jawalkar
+168,381,Full Time,"Digital Marketing,Content Marketing,Media Relations,Product Marketing,Event Management",Arpita Dey
+169,680,Full Time,"Java,Spring,Python,Django,Agile",Bharti Arora
+170,124,Full Time,"JavaScript,React.js,HTML,React Native,CSS",Priyanka Kumari
+171,543,Full Time,"Computer Vision,NLP,Image Processing,Machine Learning,Neural Networks",Priyanka Kumari
+172,773,Full Time,"Python,Data Warehousing,Data Modelling,Azure Data Factory,Azure Data Lake",Neelam Prakash
+173,285,Full Time,"Accounting,Auditing,Taxation,Chartered Accountant,Income Tax",Yuvaraj Mande
+174,341,Full Time,"SDET,Python,Robot Framework,Automation Testing,Jenkins",Rutu Lakhani
+175,165,Full Time,"AWS,Golang,Node.js",Ravindra Rathod
+176,588,Full Time,"Machine Learning,Python,Data Mining,Credit Risk Management",Ravindra Rathod
+177,548,Full Time,"Java,Spring,Python,Django,Data Structures",Himanshu Singh
+178,240,Full Time,"C#,.NET",Sumithra Rai Shetty
+179,214,Full Time,Flutter,Sumithra Rai Shetty
+180,813,Full Time,"ETL,Big Data,Data Warehousing,Spark,Kafka",Dhaarani M
+181,539,Full Time,"Corporate Sales,HVAC",Kavita Kaushik
+182,325,Full Time,Java,Akancha Gupta Sheher
+183,652,Full Time,"Machine Learning,Python,R",Preeti Singh
+184,209,Full Time,"Build Tools,AWS,Kubernetes",Amit Tripathi
+185,920,Full Time,"Customer Interaction,Customer Service",Sanya Sharma
+186,945,Full Time,"AWS,Java,Python,Spring Boot,Django",Kajal Sharma
+187,415,Full Time,"Python,Django,Data Structures,Algorithms",Hema Bisht
+188,688,Full Time,"Java,Spring Boot,Hibernate,Data Structures,Algorithms",Hema Bisht
+189,913,Full Time,"Java,Spring",Rupa Jha
+190,336,Full Time,"Content Marketing,Content Writing,English Content",Madan Raj
+191,509,Full Time,"Customer Interaction,Customer Service,Microsoft Excel,SQL,SQL*Loader",Blessy Fernandes
+192,379,Full Time,"Customer Interaction,Customer Relationship,Customer Service,SQL,Microsoft Excel",Blessy Fernandes
+193,997,Full Time,"Apex,CI - CD,DevOps,Git,Lightning Web Components,SOAP,SOQL,Salesforce,Visual Studio,Visualforce",Prince Jha
+194,869,Full Time,"Python,Flask",Meenu Jaiswal
+195,846,Full Time,"Product Management,Enterprise Software,Product Lifecycle Management,Jenkins,Consumer Software",Shikha Chauhan
+196,669,Full Time,Product Management,Varshini Raman
+197,719,Full Time,"JavaScript,Agile,Angular,Java,Unit Testing",Mohammad Adil Ansari
+198,316,Full Time,".NET,C,C++,Java,ASP.NET,C#",Shivani S
+199,954,Full Time,"Operations Management,Business Intelligence,Financial Markets,Business Analysis,Functional Consulting",Manish Nirwal
+200,383,Full Time,"Java,Engineering Management,NLP,Spring Boot,JavaScript",Misha Yadav
+201,805,Full Time,"Sales,Corporate Sales,Direct Sales,Customer Relationship,Business Development",Swapnil Nautiyal
+202,425,Full Time,"Content Marketing,Content Writing,English Content",Rekha G
+203,828,Full Time,"Sales,Portfolio Management,Mutual Funds,Equity Advisory,Stock Broking",Swapnil Nautiyal
+204,501,Full Time,"Machine Learning,Python,Scikit-learn",Sai Kiran Reddy
+205,222,Full Time,"High Frequency Trading,Quantitative Analysis,Algorithms,Calculus,Python",Abhishek Singh
+206,312,Full Time,"Strategic Planning,Statistics,Python,Trading,C++",Manish Nirwal
+207,857,Full Time,"Java,Spring,Python,Django,Data Structures",Palak Virmani
+208,983,Full Time,"Java,Spring,Python,Django,Data Structures",Palak Virmani
+209,703,Full Time,"Wordpress,Content Writing",Palak Virmani
+210,932,Full Time,"Python,Django,Flask,MySQL,MongoDB",Apurva Nidavani
+211,401,Full Time,"Content Marketing,Digital Marketing,Google Ads,SEM,SEO,Social Media Marketing",Rekha G
+212,689,Full Time,".NET,Golang,ASP.NET",Nethra Mp
+213,977,Full Time,"SQL,Tableau",Manjusha M
+214,591,Full Time,"CSS,HTML,JavaScript,Angular,Backbone.js,Ember.js,jQuery,React.js,Vue.js",Pratibha Bijalwan
+215,399,Full Time,"Build Tools,CI - CD,Linux,Ansible,AWS,Azure,Chef,Docker,Google Cloud,Gradle,Jenkins,Kubernetes,Maven,New Relic",Anirban Roy
+216,219,Full Time,"ETL,SQL Server,Tableau",Riddhi Goyal
+217,383,Full Time,"AWS,Docker,Golang,Kubernetes,NoSQL",Deepika Kangokar
+218,244,Full Time,"Business Development,Sales,International Sales,Lead Generation,Direct Sales",Blessy Fernandes
+219,526,Full Time,"Java,Selenium,API Testing,JavaScript,JSON",Dhanista Singh
+220,382,Full Time,"Wordpress,jQuery,HTML,JavaScript",Consult Bae
+221,460,Full Time,"Java,Spring,Kafka",Vaishali Chauhan
+222,416,Full Time,"Java,Spring Boot,PostgreSQL,Kafka,Redis",Reshma Gutha
+223,753,Full Time,"Sales,Business Development,Corporate Sales,Social Media Marketing",Usha
+224,987,Full Time,"Financial Markets,Microsoft Excel,Computer Operating,Microsoft Word,Teaching",Harish Chandra
+225,341,Full Time,"Science Teaching,Physics,Computer Operating",Harish Chandra
+226,989,Full Time,"Business Development,Corporate Sales,Direct Sales,International Sales,Sales",Kartik Singh
+227,244,Full Time,"Business Development,Corporate Sales,Direct Sales,International Sales,Sales",Kartik Singh
+228,504,Full Time,"SQL,Data Mining,Data Modelling,Business Analysis",Krishanu B
+229,687,Full Time,"Java,Algorithms,Data Structures,Golang",Mansi Bhutani
+230,461,Full Time,"Architecture,AutoCAD,Autodesk Revit,SketchUp,Interior Design",Tushar Kathuria
+231,482,Full Time,"Business Process Management (BPM),Java,Appian,Pega,Drools",Jyotsna Gupta
+232,186,Full Time,"C,MATLAB,Firmware Development,C++",Rvms Akhil
+233,156,Full Time,"Lead Generation,Business Development,Sales,Key Account Management",B Dhanush Raaj
+234,545,Full Time,"Microsoft Excel,Power BI,Python,R,SQL,Tableau",Sushant Arya
+235,766,Full Time,"CI - CD,Ansible,AWS,Azure,Docker,Google Cloud,Jenkins,Kubernetes",Radhika Parmar
+236,240,Full Time,"PPC,Production Control,Production Management",Consult Bae
+237,110,Full Time,"Subject Matter Expertise,Python,Java,Computer Science Teaching,PHP",Harish Chandra
+238,890,Full Time,"Business Development,Sales,Telecalling",Nikita Gandhi
+239,201,Full Time,"Java,Distributed Systems,Golang,Machine Learning,NLP",Subham Banik
+240,142,Full Time,"Business Development,Networking,Customer Interaction,Customer Relationship,Direct Sales",Parth Naik
+241,448,Full Time,"Build Tools,CI - CD,AWS",Shweta Deshpande
+242,991,Full Time,"Java,Spring,PostgreSQL,Kafka,Redis",Priyal Gupta
+243,366,Full Time,"Automation Testing,Manual Testing,Selenium",Pulkit Jain
+244,262,Full Time,"C++,Multithreading,C#,COM,Socket Programming",Priyanka Kumari
+245,632,Full Time,"Temenos,SyBase,Oracle Database,GUI,SQL",Bhaskar Anand
+246,647,Full Time,"Temenos,SQL,SyBase,Oracle Database,GUI",Bhaskar Anand
+247,668,Full Time,iOS,Zain Hashim
+248,125,Full Time,"Business Development,Sales,Telecalling",Nikita Gandhi
+249,752,Full Time,"Business Development,Corporate Sales,International Sales,Sales",Mohd Fazil
+250,929,Full Time,"Sales,Direct Sales,Business Development,Corporate Sales,Corporate Communication",Hayatt Riyaz Khan
+251,801,Full Time,"Java,JavaScript,J2EE",Archana Kumari
+252,795,Full Time,".NET,ASP.NET,C#,VB.NET",Bitu Shukla
+253,739,Full Time,"SEO,English Content,Google Ads,Content Writing,Copy Writing",Vandana Hirey
+254,876,Full Time,"Linux,SQL,Unix,IT Support",Akshatha Hydri
+255,714,Full Time,"Power BI,Python,SQL,Tableau",Preetha Saravanan
+256,638,Full Time,"PHP,Laravel",Pulkit Jain
+257,318,Full Time,"Copy Writing,SEO,Content Writing,Content Marketing,SEM",Swapnil Nautiyal
+258,413,Full Time,"Auditing,Finance",Akshita Gupta
+259,499,Full Time,"Node.js,Express.js",Kanika Chauhan
+260,675,Full Time,"Java,AWS,Architecture,Data Structures,Algorithms",Megha Joshi
+261,419,Full Time,Digital Marketing,Pujit Chanana
+262,658,Full Time,"ASP.NET,HTML,.NET,CSS,JavaScript",Aarthi P
+263,370,Full Time,"Python,API Testing,SDET,pytest,Automation Testing",Kirti
+264,188,Full Time,"React.js,Node.js,NestJS",Pinnacle Consultz
+265,299,Full Time,ServiceNow,HR Manager Sunflowee
+266,350,Full Time,".NET,C#,Microservices,AWS,Angular",Priyanka Kumari
+267,233,Full Time,".NET,C#,Microservices,Angular,AWS",Priyanka Kumari
+268,799,Full Time,".NET,C#,Microservices,Angular,AWS",Priyanka Kumari
+269,107,Full Time,"Business Development,Sales",Hr Xiphias
+270,793,Full Time,"Java,Data Structures,Algorithms,Docker,Architecture",Megha Joshi
+271,439,Full Time,Node.js,Akshay Nawani
+272,745,Full Time,"SQL,Big Data,Data Warehousing,AWS,Python",Nikita Sah
+273,988,Internship,"CSS,HTML,JavaScript,jQuery",Nithya J Rao
+274,534,Full Time,"Automation Testing,Cucumber,Python,SDET,Selenium",Pooja Saxena
+275,514,Full Time,"Non IT Recruitment,Performance Management,Recruitment",Tushar Kathuria
+276,375,Full Time,"Corporate Communication,Public Relations,Media Relations",Tushar Kathuria
+277,714,Full Time,"SEM,Social Media Marketing,Google Ads,Content Marketing",Tushar Kathuria
+278,664,Full Time,BPO Operations,Aswin Dinesh K
+279,488,Full Time,"CSS,HTML,JavaScript,jQuery,React.js",Helora Padmini
+280,311,Full Time,"Direct Sales,Sales",Hr Assist
+281,974,Full Time,"C++,Java,Python",Harshit Goel
+282,529,Full Time,"Selenium,Appium,REST Assured,Java",Shrishti Singh
+283,102,Full Time,"Adobe After Effects,Illustration,Graphic Design,Adobe Premiere Pro",Arun Ks
+284,111,Full Time,"Content Marketing,Content Writing,English Content",Arya Suresh
+285,565,Full Time,"Java,Angular,MySQL,Python,Node.js",Manjari Rastogi
+286,534,Full Time,"Selenium,Manual Testing,Automation Testing,SDET",Aditi Pradhan
+287,723,Full Time,"Data Analysis,Data Streaming,NoSQL,Search,Elasticsearch,Flink,Hadoop,Hive,Kafka,Pig,Spark,SQL,Storm",Khushboo Jain
+288,440,Full Time,"Java,Angular,Spring Boot,Microservices",Chippa Kiranmai
+289,568,Full Time,"Angular,Java,Spring Boot,Microservices,SQL",Deepthi
+290,847,Full Time,Salesforce,Roshni J
+291,389,Full Time,"Python,Django,Flask",Pratikshya Pusty
+292,389,Full Time,"Java,Vaadin",Rashmi Sahu
+293,928,Full Time,"SAP Analytics Cloud,SAP BPC,Data Visualization,Data Integration,Data Modelling",Bhaskar Anand
+294,132,Full Time,"SAP Analytics Cloud,SAP BPC,Data Visualization,Data Modelling,SAP BW",Bhaskar Anand
+295,768,Full Time,"Automation Testing,Manual Testing,Performance Testing,SDET,Security Testing,Cucumber,Java,JavaScript,JMeter,Selenium",Tanaya Das
+296,886,Full Time,"Power BI,SQL",Rajesh Pandey
+297,621,Full Time,"Java,Groovy",Naveen Kumar
+298,757,Full Time,"Java,Angular,Python,Elasticsearch",Aditi Pradhan
+299,691,Full Time,"CSS,HTML,JavaScript,React.js",Dharmandra Raja
+300,885,Full Time,"Java,Python,Video Codecs,AWS",Ananya Sharma
+301,678,Full Time,Golang,Deepa Rani
+302,260,Full Time,"Content Marketing,Digital Marketing,Facebook Marketing,Google Ads,Lead Generation,SEM,SEO,Social Media Marketing",Simran K
+303,493,Full Time,"Application Security,Cloud Security,Network Security,Vulnerability Assessment",Sahana Hebbale Subbaiah
+304,141,Full Time,"DevOps,Calypso",Naveen Kumar
+305,408,Full Time,"Content Writing,Wordpress,CMS",Gaurav Kaushik
+306,311,Full Time,"Google Cloud,Airflow,Big Data,Hadoop,Data Warehousing",Ruchi Yadav
+307,595,Full Time,"CI - CD,AWS,Azure,Docker,Google Cloud,Jenkins,Kubernetes,OpenStack",Antara Chaudhury
+308,323,Full Time,"Data Warehousing,NoSQL",Rupali Patwa
+309,873,Full Time,"Data Analysis,Hadoop,Hive,Spark,SQL",Rupali Patwa
+310,355,Full Time,"Spark,ETL,SQL,Data Warehousing,Big Data",Rashmi Srivastava
+311,625,Full Time,"Informatica PowerCenter,IDQ,SQL,Quality Control,Informatica",Lithin Raj
+312,537,Full Time,"Agile,Program Management,Project Management,Scrum",Katesha Desouza
+313,269,Full Time,"Java,MongoDB,Spring Boot,Elasticsearch,Microservices",Vijay Ks
+314,385,Full Time,"Golang,Node.js,Data Structures,Algorithms",Vishali Vashnavi
+315,429,Full Time,"Machine Learning,Python,PyTorch,TensorFlow",Ponshanker Selvaraj
+316,307,Full Time,"AWS,Golang,Java,Python",Harshit Lokhande
+317,809,Full Time,"Snowflake,Data Warehousing,Data Analysis,Python,AWS",Ruchi Yadav
+318,181,Full Time,Procurement,Richard Prabhakar
+319,704,Full Time,"Embedded C,CAN,CANalyzer,VectorCast",Prajna A
+320,215,Full Time,"Customer Interaction,Customer Relationship,Customer Service,Key Account Management",Shubhra Bhargava
+321,983,Full Time,"Python,SQL,ETL,Database Development,Big Data",Sonam Yadav
+322,885,Full Time,"ETL,Python,Big Data,SQL,Database Administration",Sonam Yadav
+323,381,Full Time,"Accounting,Finance,Taxation,Financial Analysis,Financial Planning,Financial Reporting,Income Tax,Payroll Management",Barath Pr
+324,580,Full Time,"C++,Java,SQL,Linux,C",Sunil Kandukuri
+325,377,Full Time,"Business Development,Direct Sales,Sales,Telecalling",Nandini Goel
+326,868,Full Time,"Appium,Xcode,Java,Mobile Apps Testing,Python",Rahul Negi
+327,281,Full Time,"NetSuite,ERP Implementation,Microsoft Dynamics NAV",Agartika Tomar
+328,612,Full Time,"2D Animation,3D Animation,Graphic Design,Adobe After Effects,Illustrator,InDesign,Photoshop",Swati Sharma
+329,551,Full Time,".NET,C#,C++,Golang,Java",Nischala Ravisankar
+330,748,Full Time,"AWS,Terraform,Python,CI - CD,DevOps",Chethan Kumar V
+331,187,Full Time,Python,Deepa Rani
+332,975,Full Time,"Java,React.js,Angular",Garnet Chaves
+333,229,Full Time,"Teamcenter,IT Support",K Sravani
+334,715,Full Time,"C,Golang,Java",Harshitha Macha
+335,519,Full Time,"Learning and Development,Microsoft Office,HR Operations,Employee Grievances,Performance Management",Divya Shah Nandi
+336,882,Full Time,"SQL,T-SQL,C#,MySQL",Bhuvaneshwari T
+337,747,Full Time,"Customer Service,Customer Relationship,Key Account Management,Customer Interaction,Hotel Operations",Suranjan Barman
+338,426,Full Time,"AutoCAD,Microsoft Office,Civil Engineering,Customer Interaction,Project Management",Divya Shah Nandi
+339,240,Full Time,"Sales,Microsoft Office,Email Marketing,Social Media Marketing,Marketing",Divya Shah Nandi
+340,227,Full Time,"Android,Java,Kotlin",Shruti Verma
+341,819,Full Time,"Agile,Business Analysis,API Testing,Microservices,Retail Operations",Kusha Bedre
+342,761,Full Time,"Adobe Premiere Pro,Adobe After Effects",Dilshad Ahamed
+343,737,Full Time,".NET,C++,JavaScript,ASP.NET,C#",Careers Caw
+344,371,Full Time,"Motion Graphics,Adobe Premiere Pro,Adobe After Effects,Cinema 4D,Figma",Shanmuga Priya G
+345,602,Full Time,"Customer Interaction,Customer Relationship,Customer Service,Key Account Management",Mayank Singh
+346,114,Full Time,"Android,iOS,Flutter,React Native",Anupam Gandhi
+347,722,Full Time,"Key Account Management,Inbound Marketing,Lead Generation,Business Development",Tasmia Azhar
+348,515,Full Time,"JavaScript,React Native,React.js",Saranya R
+349,382,Full Time,"JavaScript,Selenium,HTML,SQL,MongoDB",Muskan Sonkhla
+350,660,Full Time,"PHP,React.js,HTML,CSS,Laravel",Aishwarya Raj
+351,947,Full Time,Interior Design,Ramya Shetty
+352,916,Full Time,"Graphic Design,Corel Draw,Illustrator,InDesign,Photoshop",Arifa Soorya
+353,671,Full Time,"Java,DevOps,Angular,Microservices,AWS",Ankita Yadav STP
+354,351,Full Time,"Java,Node.js,Python,Django",Shalini Chandra
+355,433,Full Time,".NET,ASP.NET,C#",Saurabh Pandey
+356,480,Full Time,"Azure,SQL,ETL,Python,PySpark",Anupam Gandhi
+357,751,Full Time,Engineering Management,Ankita Sharma
+358,291,Full Time,"Java,Data Structures,LLD,Spring,Algorithms",Madhusudhan K
+359,797,Full Time,"Java,Data Structures,Algorithms,Microservices,Elasticsearch",Likhitha B N
+360,998,Full Time,"Sales,Corporate Sales,Networking",Itisha Goel
+361,577,Full Time,"Python,Flask",Remya Pillai
+362,649,Full Time,"Microsoft Power Apps,Canvas",Shobana R
+363,824,Full Time,"Product Management,Market Research,Pharmaceutics,Sales,Customer Relationship",Parth Naik
+364,315,Full Time,"SQL,C#,T-SQL",Rakesh Patil
+365,710,Full Time,"Wordpress,JavaScript,PHP,HTML,CSS",Rovena Dsouza
+366,448,Full Time,"Node.js,Golang,AWS",Priyanka Mahindrakar
+367,803,Full Time,"Product Marketing,Marketing,DevOps,GTM,Digital Marketing",Abhishek Singh
+368,884,Full Time,"Java,Data Structures,Terraform,Python,AWS",Tapish Bhattkoti
+369,667,Full Time,"Java,Spring Boot,Microservices,MongoDB,NoSQL",Adhishree Gupta
+370,653,Full Time,"Python,REST Assured,Customer Service,SQL",Sonam Yadav
+371,679,Full Time,"Data Streaming,Data Warehousing,NoSQL,Search,Cassandra,Elasticsearch,HBase,Kafka,MongoDB,Snowflake,Solr,Teradata",Partha Dewri
+372,537,Full Time,"Java,Microservices,Spring Boot,Data Structures,Algorithms",Prasoon Murthy N
+373,714,Full Time,"Asset Management,EDI,IDOC,Liquidity Management,Accounting",Bhaskar Anand
+374,312,Full Time,"Treasury Operations,EDI,IDOC,Asset Management,Liquidity Management",Bhaskar Anand
+375,343,Full Time,"C++,Machine Learning,Algorithms,Data Structures,Embedded C++",Mythili Achappa
+376,946,Full Time,"Selenium,Appium,Manual Testing,Automation Testing,AWS",Rovena Dsouza
+377,982,Full Time,"PHP,Laravel",Toshi Bhilwar
+378,370,Full Time,"Databricks,Data Analysis,COE,Spark,Azure Data Lake",Ruchi Yadav
+379,243,Full Time,"Presales,Solution Architecture,Data Warehousing,Data Analysis,Proposal Writing",Ruchi Yadav
+380,597,Full Time,"Business Development,Direct Sales,Sales",Keerthana Kolle
+381,114,Full Time,"AWS,DevOps,CI - CD,Build Tools,Python",Ayushi Jain
+382,622,Full Time,"Performance Management,Recruitment,Learning and Development,Employee Induction,Employee Engagement",Madhu Gupta
+383,723,Full Time,"Brand Management,Influencer Marketing,Marketing,Customer Relationship,Business Development",Paankhuri Aggarwal
+384,240,Full Time,"C,C++,Golang,Java,Python,Scala",Shama Afroj
+385,756,Full Time,Customer Service,Sukant Singh
+386,755,Full Time,"Selenium,Appium,API Testing,Manual Testing,Automation Testing",Ramya Tanya
+387,801,Full Time,"Node.js,AWS,Golang",Prakhar Mehrotra
+388,795,Full Time,"Brand Management,Product Marketing,Marketing,ATL,BTL",Akansha Gaur
+389,578,Full Time,"JavaScript,TypeScript,React.js,Redux,Java",Swathi Nune
+390,516,Full Time,SQL,Pallavi Chauhan
+391,865,Full Time,"Sales,Business Development,Direct Sales,Telecalling,Corporate Sales",Ameesha Srivastava
+392,605,Full Time,Product Management,Alfazhil Dharif
+393,473,Full Time,"Automation Testing,Manual Testing,SDET,Java,Python,Selenium",Alfazhil Dharif
+394,309,Full Time,"General Management,Fitness Coaching",Shruti Shrivastava
+395,570,Full Time,"Business Development,Sales",Guarav Sidharth
+396,871,Full Time,"General Management,Corporate Strategy",Sukant Singh
+397,794,Full Time,"FPA,Corporate Banking,Financial Reporting,Finance,Corporate Tax",Ramya R Kulkarni
+398,885,Full Time,Sales,Swati Kumari
+399,812,Full Time,Business Development,Chanchal Jugran
+400,870,Full Time,"Java,Spring,Google Cloud,Microservices,Jira",Lithin Raj
+401,403,Full Time,"Graphic Design,Video Editing,Corel Draw,3D Animation,Visual Design",Priya Ayachit
+402,563,Full Time,"Node.js,JavaScript,TypeScript,React.js,NestJS",Niharika Sharma
+403,322,Full Time,"DevOps,AWS,Azure,Google Cloud,Cloud Computing",Vijeth Viji
+404,607,Full Time,"Automation Testing,Manual Testing,Selenium,SQL Server,Jira",Vijeth Viji
+405,158,Full Time,"Sales,Business Development,Recruitment,Direct Sales",Piyush Mishra
+406,224,Full Time,"Sales,Business Development,Direct Sales,Recruitment",Piyush Mishra
+407,771,Full Time,"Digital Marketing,Brand Management,SEO,Social Media Marketing,SEM",Richa Upadhyay
+408,395,Full Time,"Content Marketing,Content Writing,English Content",Ankita Jain
+409,916,Full Time,"C,C++,Kernel Development,Networking,Storage,File Systems,iSCSI,Linux Device Drivers,Linux Internals,SAN,SCSI,Socket Programming",Devendra Mutha
+410,130,Full Time,"webMethods,OpenShift,Git",Deepesh Shrimal
+411,292,Full Time,"Machine Learning,Python,MySQL,Scikit-learn,PyTorch",Nikita Sah
+412,206,Full Time,"AWS,Deployment,Distributed Systems,Microservices",Keerthana Ramaswamy
+413,235,Full Time,"Business Development,Sales",Nidhi Taliyan
+414,424,Full Time,"Product Management,Market Research,BFSI,Product Lifecycle Management",Rushikesh Shinde
+415,154,Full Time,"Agile,Project Management,Jira,Scrum,PMP",Shrushti Rangari
+416,272,Full Time,"React.js,TypeScript",Manjari Rastogi
+417,340,Full Time,"Digital Marketing,Facebook Marketing,Google Ads,Social Media Marketing",Divyajyoti Sharma
+418,680,Full Time,"JavaScript,HTML,CSS,jQuery,Java",Ameesha Srivastava
+419,671,Full Time,"Java,API Testing,SDET,MongoDB,Postman",Dhanista Singh
+420,842,Full Time,Interior Design,Ramya Shetty
+421,997,Full Time,"Operations Management,ASM,Business Development,Quality Assurance,Sales",Aishwarya Nair
+422,845,Full Time,"Employee Engagement,Payroll Management,Recruitment,Talent Management,Microsoft Excel",Aishwarya Nair
+423,837,Full Time,"Presales,Public Relations,Corporate Communication",Itisha Goel
+424,524,Full Time,"C++,Java,Python,Hibernate,Spring",Poojitha Busireddy
+425,570,Full Time,"SAP SRM,SAP MM,Invoice Processing,SAP S4 HANA,Procurement",Bhaskar Anand
+426,696,Full Time,"Product Management,Payment Solutions,Consumer Software,Merchant Banking",Nikhil Kumar
+427,163,Full Time,"Product Management,Payment Solutions",Nidhi Singh
+428,422,Full Time,"HTML,jQuery,JavaScript,UX Design,Node.js",Mrunal Kankal
+429,610,Full Time,"Machine Learning,Python,NLP,Marketing,Airflow",Ujwala Kudur
+430,227,Full Time,"Product Management,Procurement,Vendor Management,Inventory Management,Process Improvement",Aishwarya Nair
+431,365,Full Time,"Node.js,Laravel,MySQL,AWS,Docker",Mahalakshmi S
+432,665,Full Time,"Node.js,PHP,MySQL,AWS,Docker",Mahalakshmi S
+433,516,Full Time,"Node.js,PHP,MySQL,AWS,Docker",Mahalakshmi S
+434,592,Full Time,"SAP BI,SAP BW",Leesha Dsouza
+435,981,Full Time,"Java,Hibernate,Spring,Struts",Bharti Jigyasi
+436,928,Full Time,"Java,JavaScript,Python,React.js",Sundar A
+437,163,Full Time,"Machine Learning,Python",Ankita Ghosh
+438,445,Full Time,"JavaScript,Python,Angular",Sneha Sreekumar
+439,805,Full Time,"Node.js,React.js",Sumithra Rai Shetty
+440,478,Full Time,Digital Marketing,Alekhya Banik
+441,383,Full Time,"Business Development,Sales",Alekhya Banik
+442,224,Full Time,"Business Development,Direct Sales,Sales,Telecalling",Ajit Singh Rajput
+443,463,Full Time,"Manual Testing,Insurance Broking,Insurance Operations",Monisha M
+444,850,Full Time,Product Management,Shalini Chandra
+445,436,Full Time,"Power BI,Python,SQL",Sharon Robinson
+446,596,Full Time,"Jenkins,Python,Robot Framework,SDET,CI - CD",Ankit Sinha
+447,793,Full Time,"Technical Support,AWS,Windows,PowerShell,Networking",Nisha M
+448,775,Full Time,"Java,Spring Boot,MongoDB,Kafka,RabbitMQ",Mrinal Bhardwaj
+449,876,Full Time,"Build Tools,CI - CD,Ansible,AWS,Azure,Chef,Docker,Jenkins,Kubernetes,Puppet",Kailuni Lanah
+450,689,Full Time,"CSS,HTML,JavaScript,React.js",Deepa Rani
+451,235,Full Time,"Market Research,Sales,Product Management,Customer Relationship,Pharmaceutics",Parth Naik
+452,641,Full Time,"Corporate Sales,Direct Sales,Business Development,Sales",Ritesh Singh
+453,584,Full Time,"Power BI,Python,Tableau,Matplotlib,NumPy,pandas",Sushant Arya
+454,972,Full Time,"Data Streaming,Data Warehousing,ETL,Kafka",Priya Ummadi
+455,889,Full Time,"WebSphere Commerce,Java,JavaScript,HTML,CSS",Apurwa Roy Sheher
+456,754,Full Time,"PostgreSQL,AWS,Terraform,Database Administration",Sunil Adhikari
+457,836,Full Time,Windows,Sunil Adhikari
+458,459,Full Time,C++,Vishakha Sharma
+459,857,Full Time,"Appian,SQL",Shweta Rawat
+460,972,Full Time,"HIPAA,BigQuery,Dataflow,Azure Data Lake,Spark",Ritesh Singh
+461,351,Full Time,"C,C++,Java",Anuradha K
+462,927,Full Time,"Business Development,Sales",Kalpana Choudhary
+463,140,Full Time,"Microsoft Excel,SAS,SQL,Tableau",Akshatha Ks
+464,658,Full Time,"Linux,Red Hat",Akshatha Ks
+465,445,Full Time,"Apigee,MuleSoft,Ansible,IBM WebSphere DataPower,WebLogic Server",Bhaskar Anand
+466,943,Full Time,"AWS,Kubernetes,Docker,CI - CD,Monitoring",Vishali Vashnavi
+467,202,Full Time,"Public Relations,Lead Generation,Business Development,Corporate Communication,Telecalling",Tasmia Azhar
+468,165,Full Time,"Python,C++,Django,Flask",Vishakha Sharma
+469,317,Full Time,Python,Sunil Adhikari
+470,536,Full Time,".NET,ASP.NET,C#",Lokesh Raj
+471,642,Full Time,"Node.js,Laravel,MySQL,AWS,Docker",Mahalakshmi S
+472,645,Full Time,"Node.js,TypeScript,JavaScript,React.js,NestJS",Abhishek Singh
+473,824,Full Time,"NestJS,Node.js,React.js,ORM,DevOps",Manish Nirwal
+474,179,Full Time,"Node.js,AWS,Kubernetes,Docker,Google Cloud",Anu Antony
+475,625,Full Time,"Data Analysis,Data Streaming,NoSQL,Databricks,Hadoop,HDFS,Kafka,Spark,SQL,Storm",Bhoomika Varshney
+476,865,Full Time,"Java,Data Structures,Spring Boot,Microservices",Anjali Nair
+477,885,Full Time,"2D Animation,Motion Graphics,Photoshop,Adobe After Effects,Illustrator",Rutu Lakhani
+478,820,Full Time,"Automation Testing,Manual Testing,Performance Testing",Shreya Maheshwari
+479,437,Full Time,"NestJS,Node.js,DevOps,Algorithms,JavaScript",Manish Nirwal
+480,384,Full Time,"Business Development,Sales",Samreen Fathima
+481,476,Internship,"Business Development,Sales",Apeksha Naik
+482,445,Full Time,"Spark,ETL,SQL,Data Warehousing,Big Data",Rashmi Srivastava
+483,327,Full Time,"NLP,Python",Anamika Ojha
+484,894,Full Time,"Accounting,Finance,Financial Analysis,QuickBooks",Mohit Aggrawal
+485,669,Full Time,"Selenium,Appium,API Testing,Manual Testing,Automation Testing",Prakhar Mehrotra
+486,221,Full Time,"Sales,Immigration,Direct Sales,Work Permits,Brand Management",Kajal Pahuja
+487,560,Full Time,"Java,Angular,Elasticsearch,AWS,Python",Hema Bisht
+488,476,Internship,"3D Animation,Photoshop",Meran
+489,903,Full Time,"Node.js,Java,Elasticsearch,MongoDB,SQL",Aditi Tyagi
+490,667,Full Time,"CSS,HTML,JavaScript,Angular,React.js",Balaji Krishna
+491,598,Full Time,"Java,JavaScript,Angular,Node.js,Spring",Balaji Krishna
+492,424,Full Time,"Salesforce,Apex,Lightning,Visualforce",Riyanshi Goyal
+493,271,Full Time,"Corporate Sales,Business Development,Customer Relationship",Ravi Dubey
+494,561,Full Time,"Project Management,Customer Service,General Management,Program Management,Operations Management",Vandana Hirey
+495,810,Full Time,Java,Swati
+496,441,Full Time,"C++,Java,Python,Scala",Samuel W
+497,705,Full Time,HTML,Bannela Kuruva Nagasudha Devi
+498,358,Full Time,"CI - CD,Linux,AWS,Azure,Docker,Google Cloud,Jenkins,Kubernetes",Aience Boruah
+499,590,Full Time,"Network Security,Firewalls,AWS,Palo Alto",Vinay Kondapalli
+500,945,Full Time,"Data Analysis,Python,SQL,Data Visualization",Sparsh Maan
+501,272,Full Time,"MLOps,Airflow,Computer Vision,DevOps,TensorFlow",Riya Chaurasia
+502,666,Full Time,"Node.js,Express.js,MongoDB,NoSQL",Mahalakshmi S
+503,938,Full Time,"Node.js,Laravel,MySQL,AWS,Docker",Mahalakshmi S
+504,431,Full Time,"Java,JavaScript,Angular,Hibernate,Spring",Preeti Sekhar
+505,216,Full Time,"Switching,Level Switch,Java,SQL,Visa Processing",Rahul Prakash Chunduri
+506,676,Full Time,".NET,React.js,ASP.NET,SQL,C#",Rakesh Patil
+507,323,Full Time,"Python,Django,Flask",Aparna Singh
+508,704,Full Time,"Machine Learning,Fraud Management,Data Mining",Aarthi P
+509,992,Full Time,"Business Development,Sales,Telecalling",Mansi Gupta
+510,296,Full Time,"Golang,Java,Python,Django",Shubham Kedia
+511,310,Full Time,"Python,Algorithms,Data Structures",Anjali Nair
+512,917,Full Time,".NET,C#",Bishnupriya Panigrahi
+513,688,Full Time,"CSS,HTML,JavaScript,React.js",Karuna Yalamarthi
+514,278,Full Time,Python,Krishna Boopathy Ramachandran
+515,556,Full Time,"Java,Spring Boot,Microservices,IT Support,Kubernetes",Ameesha Srivastava
+516,840,Full Time,Golang,Ashwin N
+517,447,Full Time,"Sales,Business Development,Direct Sales,Telecalling,Customer Service",Ameesha Srivastava
+518,554,Full Time,"Advertising,Copy Writing,Content Writing,Social Media Marketing",Mythri I
+519,988,Full Time,"Lead Generation,Data Mining,Business Development,Sales",Indu Dixit
+520,629,Full Time,"Marketing,Brand Management,Product Marketing,Category Management",Swapnil Nautiyal
+521,549,Full Time,"Project Management,Corporate Strategy,PMO",Swapnil Nautiyal
+522,998,Full Time,"Quality Control,Adobe Premiere Pro,Adobe After Effects",Shanmuga Priya G
+523,934,Full Time,"Python,Node.js,PHP,Django,Flask",Himanshu Singh
+524,520,Full Time,"Recruitment,Talent Management,Employee Benefits,Compensation Management,Employee Engagement",Swati Khanna
+525,838,Full Time,"Automation Testing,Mobile Apps Testing,SDET,Appium,Java,Selenium",Ankita Singh
+526,790,Full Time,"Business Analysis,Business Intelligence,Data Analysis,Management Consulting",Durgeshwari Gupta
+527,145,Full Time,"Machine Learning,Python,TensorFlow",Arjun Chakraborti
+528,670,Full Time,"Python,ETL,Big Data,SQL,Spark",Vijeth Viji
+529,735,Full Time,"Ansible,Azure,CI - CD,Chef,CircleCI,Jenkins,Puppet",Vaishali Bahl
+530,701,Full Time,"Google Cloud,Cloud Computing,BigQuery,Kafka,Dataflow",Ritesh Singh
+531,746,Full Time,".NET,Android,Java,JavaScript,PHP,Angular,C#,React.js,Wordpress",Mahesan M
+532,959,Full Time,"Real Estate Broking,Leasing,Commercial Leasing,Sales,Corporate Sales",Sakshi Dhiman
+533,418,Full Time,"iOS,JavaScript,React.js",Shiju Shaji
+534,504,Full Time,".NET,ASP.NET,C#",Swathi Hariraj
+535,968,Full Time,"Python,SQL,AWS,Airflow,Amazon Athena",Nisha M
+536,452,Full Time,"React.js,React Native",Arun Ks
+537,679,Full Time,"Sales,Business Development,Corporate Sales,VOIP,Value Added Services (VAS)",Poorti Punj
+538,650,Full Time,Interior Design,Kshithija Karkera
+539,144,Full Time,"Microsoft Excel,Python,SQL,Tableau",Shaurya Rajour
+540,561,Full Time,"Python,Django,Microservices,Flask,Data Structures",Nikita Sah
+541,174,Full Time,".NET,SQL Server,ASP.NET,C#,CSS",Deepali Nagpal
+542,825,Full Time,"Employee Engagement,Performance Management,Recruitment",Akanksha Pillay
+543,327,Full Time,"React.js,Node.js,Project Management,Quality Assurance",Heena Budhwani
+544,979,Full Time,"Operations Management,Process Improvement",Rahul Rathore
+545,761,Full Time,"Business Development,Corporate Sales,Direct Sales,International Sales,Sales,Telecalling",Abinaya Vasudevan
+546,234,Full Time,"Corporate Sales,Sales",S V Vaishnavi
+547,565,Full Time,"DevOps,AWS,Docker,CI - CD,Kubernetes",Shrishti Singh
+548,137,Full Time,"Reliability Engineering,DevOps,AWS,Kubernetes,Docker",Shrishti Singh
+549,147,Full Time,"Python,SQL,Business Intelligence,Data Analysis,Power BI",Stuti Ahuja
+550,557,Full Time,"Recruitment,Non IT Recruitment,Talent Management,Employee Benefits,Campus Recruitment",Vandana Hirey
+551,691,Full Time,"Java,AWS,Spring Boot,GraphQL,Kafka",Ayushi Jain
+552,921,Full Time,"React.js,JavaScript,CSS,Redux,Git",Sougat Das
+553,528,Full Time,"Java,Spring,Docker,SQL",Priya Desai
+554,919,Full Time,"DevOps,AWS,Deployment,CI - CD,Kubernetes",Vishali Vashnavi
+555,453,Full Time,"Docker,AWS,Kubernetes,Jenkins,Ansible",Priyanka Mahindrakar
+556,629,Full Time,"Java,Spring,Kafka,AWS,Hive",Ankit Sinha
+557,250,Full Time,"Java,AWS,Kafka,Data Structures,Algorithms",Nikita Rai
+558,624,Full Time,"Manual Testing,Automation Testing,Selenium",Khushi Tomar
+559,569,Full Time,"Manual Testing,Automation Testing,Selenium",Khushi Tomar
+560,698,Full Time,"Node.js,Laravel,MySQL,AWS,Docker",Mahalakshmi S
+561,380,Full Time,"Flutter,UX Design,UI Testing,Android,iOS",Mahalakshmi S
+562,214,Full Time,"Architecture,Laravel,Node.js,AWS,Android",Mahalakshmi S
+563,529,Full Time,"Computer Vision,Machine Learning,NLP,Python,Keras,NLTK,PyTorch,Scikit-learn,spaCy,TensorFlow",Sai Divya Vemuri
+564,126,Full Time,"CI - CD,Ansible,Azure,Google Cloud,Jenkins,New Relic",Shalini Jakhar
+565,234,Full Time,"Node.js,Ethereum,Chatbots,Cryptocurrency",Aashiya
+566,765,Full Time,"Java,Node.js,Spring",Arpita Ghosh
+567,700,Full Time,"UX Design,Graphic Design,Visual Design,3D Animation,2D Animation",Mrunal Kankal
+568,500,Full Time,"COE,Databricks,PySpark,Python,Stakeholder Management",Bhoomika Gm
+569,697,Full Time,"COE,Google Cloud,Big Data",Bhoomika Gm
+570,323,Full Time,"CSS,HTML,JavaScript",Sudhakar Mylsamy
+571,128,Full Time,"Node.js,Express.js,MongoDB,NoSQL",Mahalakshmi S
+572,106,Full Time,"Business Development,Sales",Udhay D
+573,832,Full Time,SEO,Udhay D
+574,242,Full Time,"DevOps,CI - CD,AWS,Docker,Kubernetes",Prakhar Mehrotra
+575,325,Full Time,"DevOps,AWS,CI - CD,Kubernetes,Docker",Prakhar Mehrotra
+576,647,Full Time,"Computer Vision,Machine Learning,NLP,Python,Keras,PyTorch,TensorFlow",Naga Lakshmi Chapparapu
+577,257,Full Time,"Java,Angular,Python,MySQL,AWS",Manjari Rastogi
+578,186,Full Time,"CSS,HTML,JavaScript,UX Design,Git",Ameesha Srivastava
+579,127,Full Time,"Terraform,Docker,Kubernetes",Sumithra Rai Shetty
+580,257,Full Time,"Performance Testing,Regression Testing,Manual Testing,Quality Assurance,SDET",Mansi Bhutani
+581,593,Full Time,"Performance Testing,Regression Testing,Manual Testing,Automation Testing",Sparsh Maan
+582,992,Full Time,"Selenium,Jasmine,Karma,JavaScript,TypeScript",Kamal Deep Sahni
+583,226,Full Time,"Corporate Sales,Debt Market,Direct Sales,Equity Advisory,Mutual Funds,NISM,Sales",Mansi Gosavi
+584,319,Full Time,"Customer Interaction,Customer Relationship,Customer Service,Key Account Management",Sudhakar Mylsamy
+585,232,Full Time,"HTML,JavaScript,Technical Support",Sudhakar Mylsamy
+586,144,Full Time,"Content Writing,SEO,Copy Writing,Copy Editing,Content Marketing",Geeti
+587,629,Full Time,"Graphic Design,Photoshop,Visual Design,Illustration",Geeti
+588,144,Full Time,"Python,Data Structures,Algorithms,Engineering Management,Architecture",Kezia Vincent
+589,653,Full Time,"Wireframing,Figma,UX Design,Sketch",Geeti
+590,943,Full Time,"UiPath,Angular,Agile,React.js,Vue.js",Swathi Madagoni
+591,709,Full Time,"Hadoop,EMR,Amazon Redshift,AWS,Big Data",Tanya Gupta
+592,441,Full Time,SEO,Prateek Jadhav
+593,306,Full Time,"Oracle RMB,PL-SQL,Oracle BI,Oracle BRM,ROADM",Bhaskar Anand
+594,730,Full Time,"CI - CD,AWS,Azure,Docker,Google Cloud,Kubernetes",Priyanka Sharma
+595,892,Full Time,"Facility Management,Hospitality,Office Operations,Event Management,Microsoft Office",Bhaskar Anand
+596,252,Full Time,"AWS,DevOps,Docker,Kubernetes,CI - CD",Rakhi Dahiya
+597,342,Full Time,"AWS,DevOps,CI - CD,Docker,Kubernetes",Rakhi Dahiya
+598,671,Full Time,"jQuery,Bootstrap,InDesign,Illustration,JavaScript",Ameesha Srivastava
+599,920,Full Time,"Accounting,Auditing,Finance,Taxation,Budgeting,Financial Analysis,Financial Planning,Financial Reporting,GST,Income Tax,Internal Audit,Payroll Management,TDS",Antara Chaudhury
+600,316,Full Time,"CSS,HTML,JavaScript,Ember.js,jQuery,React.js,Vue.js",Varsha S
+601,421,Full Time,"Vistex,OTC,CPG",Bhaskar Anand
+602,321,Full Time,"Computer Vision,Machine Learning,NLP,Python,R",Vishal Vikram Singh
+603,498,Full Time,"DevOps,Jenkins,AWS,Kubernetes,Terraform",Ramya Tanya
+604,481,Full Time,"AWS,DevOps",Shrishti Singh
+605,739,Full Time,"DevOps,Docker,AWS,Kubernetes,Terraform",Ramya Tanya
+606,236,Full Time,"Golang,PHP,Laravel",Kailuni Lanah
+607,969,Full Time,Customer Interaction,Nisha Jinger
+608,388,Full Time,"Release Engineering,CI - CD,Azure,RHCE,RHCSA",Pallavi Deshpande
+609,667,Full Time,"C,C++",Vijay Tippai Hehimhis
+610,964,Full Time,"Microsoft Excel,Python,R,SQL,Tableau",Jyoti Aeri
+611,221,Full Time,"Agile,Program Management,Scrum",Jyoti Aeri
+612,129,Full Time,"Java,Golang,Angular,React.js,JavaScript",Shivam Bhardwaj
+613,446,Full Time,"Java,Spring",Sabiha Pathan
+614,786,Full Time,"Java,Hibernate,J2EE,Spring,Struts",Riyanshi Goyal
+615,959,Full Time,"Java,Node.js,TypeScript",Richa Anchan
+616,890,Full Time,Customer Service,Nawazullah A
+617,826,Full Time,"Business Development,Direct Sales,Sales",Shreya Mishra
+618,894,Full Time,"PHP,Python,Laravel",Richa Gupta
+619,252,Full Time,"IT Support,Technical Support",Latha Abhijith
+620,172,Full Time,ServiceNow,Mayur Pilavare
+621,976,Full Time,"JavaScript,React.js,React Native,CI - CD,Vue.js",Vaibhav Singh
+622,988,Full Time,Social Media Marketing,Cheshta Jain
+623,821,Full Time,"Machine Learning,Python",Nikhila Benny
+624,474,Full Time,"Golang,Java,Node.js,Python",Darshan Bd
+625,105,Full Time,Product Management,Venkatesh G
+626,551,Full Time,"IT Recruitment,Recruitment",Fariha Tasnim
+627,281,Full Time,"Java,JavaScript,Python,HTML,Algorithms",Suhail
+628,467,Full Time,"JavaScript,React.js",Vaishnavi Praveen
+629,869,Full Time,"Graphic Design,Illustration,InDesign,Corel Draw,2D Animation",Nidhi Pithia
+630,363,Full Time,"Java,JavaScript,Angular,Node.js,Golang",Shivam Bhardwaj
+631,907,Full Time,"CSS,HTML,JavaScript,Vue.js",Yogesh Dutt Sharma
+632,311,Full Time,"Python,Django",Nikhila Benny
+633,902,Full Time,"Airflow,Amazon SageMaker,MLOps,Kubernetes,Virtualization",Mubasshara Khatri
+634,959,Full Time,MuleSoft,Nethra Mp
+635,667,Full Time,MuleSoft,Nethra Mp
+636,187,Full Time,"AWS,Python,Terraform",Suji Santhanam
+637,486,Full Time,"Java,Data Structures,Node.js,Product Lifecycle Management",Riya Prasad
+638,858,Full Time,Interior Design,Shreya Mishra
+639,466,Full Time,"Sales,Business Development,Direct Sales,Telecalling,Corporate Sales",Ameesha Srivastava
+640,426,Full Time,"Golang,Java,Spring",Amrit Kumar Dash
+641,239,Internship,"Business Development,Corporate Sales,Sales",Kokila Joseph
+642,709,Full Time,"Machine Learning,Python,R",Akhila Challa
+643,770,Full Time,"Business Development,Corporate Sales,Direct Sales,International Sales,Sales",Anupriya Sharma
+644,643,Full Time,"Non IT Recruitment,Recruitment",Hr Kapable
+645,747,Full Time,"UX Design,Figma,Adobe XD,Wireframing,Sketch",Priya Desai
+646,572,Full Time,"PHP,CodeIgniter",Kavya Shree M S
+647,774,Full Time,"Chartered Accountant,Financial Planning,Variance Analysis,Budgeting,Cash Flow Management",Shilpi Lalotra
+648,538,Full Time,"Direct Sales,Sales,Telecalling",Shivika Bhatnagar
+649,285,Full Time,"Business Development,Lead Generation,Sales,Telecalling,International Sales",Shivkumar Gurram
+650,547,Full Time,"Next.js,React.js,SSR,HTML,CSS",Mansi Bhutani
+651,300,Full Time,"PHP,JavaScript,Laravel,CodeIgniter,React.js",Himanshu Kumar Sinha
+652,412,Full Time,"ATL,Brand Management,BTL,Digital Marketing,Marketing Communication",Falak Faiz
+653,724,Full Time,"WSO2,Data Integration,Java",Bhuvaneshwari T
+654,655,Full Time,"Salesforce,ServiceNow",Prakriti Gupta
+655,376,Full Time,"SEO,Wordpress,PHP,JavaScript",Shrishti Singh
+656,402,Full Time,"Node.js,React.js,JavaScript,AWS,Python",Manju Kumari
+657,537,Full Time,"Python,SQL,Data Visualization,Machine Learning,AB Testing",Dipika Khandge
+658,239,Full Time,"Java,JavaScript,Node.js,Spring",Priyanka Nair
+659,573,Full Time,"React.js,JavaScript,HTML,CSS,CMS",Meghnakashyap Pandey
+660,381,Full Time,"Adobe XD,InVision,Figma,HTML,UX Design",Sanjay Sinha
+661,623,Full Time,"C,C++,Golang,Python",Roma Dhameja
+662,270,Full Time,".NET,C,C++,Golang,Java,Python,ASP.NET,C#,Django,Flask,Hibernate,Spring",Roma Dhameja
+663,863,Full Time,"CSS,HTML,JavaScript,React.js",Pooja Jamwal
+664,244,Full Time,".NET,C#,TypeScript,Docker,React.js",Sanskrithi Shetty
+665,980,Full Time,"Business Development,Sales",Simran K
+666,280,Full Time,"C++,Java,Python,Django,Hibernate,J2EE,Spring",Vinoth Kumar
+667,108,Full Time,"Graphic Design,Motion Graphics,Illustrator",Narkish M
+668,879,Full Time,"Java,Node.js,Elasticsearch,MongoDB",Sagar Mangtani
+669,762,Full Time,Axiom,Saumya Jaiswal
+670,100,Full Time,"Augmented Reality,Virtual Reality,C#,3D Animation,Neural Networks",Reenal Rawal
+671,939,Full Time,"Game Design,Game Development,Game Testing,Unreal,C#",Reenal Rawal
+672,838,Full Time,"Customer Interaction,Customer Relationship,Customer Service,Key Account Management",Alisha Mehta
+673,970,Full Time,"C,C++,Golang,Java,Python,Django,Flask,Hibernate,Spring,Struts",Roma Dhameja
+674,152,Full Time,".NET,C,C++,Golang,Java,Python,ASP.NET,C#,Django,Flask,Hibernate,SharePoint,Spring,Struts",Roma Dhameja
+675,762,Full Time,"Java,Spring,Microservices,Hibernate,MongoDB",Blessy Fernandes
+676,178,Full Time,"UX Design,Figma,Adobe XD,InVision,Photoshop",Roshan Muniraj
+677,267,Full Time,"Business Development,Corporate Sales,International Sales,Sales",Sreechitra Narayanan
+678,571,Full Time,"Express.js,MongoDB,Node.js,React.js,TypeScript",Sougat Das
+679,225,Full Time,"Presales,Solution Architecture,Data Warehousing,RFI,RFP",Bhoomika Gm
+680,661,Full Time,"Customer Relationship,Customer Interaction",Sunidhi Sinha
+681,427,Full Time,"Machine Learning,NLP,TensorFlow,Computer Vision,PyTorch",Reenal Rawal
+682,423,Full Time,".NET,ASP.NET,Angular",Ramu Undefined
+683,892,Full Time,"Java,Architecture,Data Structures",Kanika Ahuja
+684,649,Full Time,Product Management,Anjali Singh
+685,811,Full Time,"Oracle General Ledger,Oracle Order Management,Oracle Receivables,Receivables Management",Venkatesh Tangirala
+686,237,Full Time,"Oracle General Ledger,Oracle Order Management,Oracle Receivables,Receivables Management",Venkatesh Tangirala
+687,196,Internship,"Non IT Recruitment,Recruitment",Sai Pavani Yayi
+688,283,Full Time,"JavaScript,Angular,Node.js,React.js,Vue.js",Ayushi Aeran
+689,739,Full Time,"Corporate Sales,Telecalling",Rahul Tharika
+690,963,Full Time,"InDesign,Photoshop,Illustrator,3D Animation,HTML",Ameesha Srivastava
+691,640,Full Time,".NET,Angular,SQL,ASP.NET,TypeScript",Geethan G
+692,239,Full Time,"ASP.NET,Azure,Azure DevOps Server",Alexander Jebasingh
+693,193,Full Time,"Inventory Management,Logistics Management,Material Management,Procurement,Vendor Management",Diana Nunez
+694,894,Full Time,"Business Development,Corporate Sales,Direct Sales,Sales,Telecalling",Sheetal Kushwaha
+695,375,Full Time,Product Management,Awais Shaikh
+696,577,Full Time,"Android,Automotive Infotainment",Leesha Dsouza
+697,474,Full Time,"Angular,Python",Sumithra Rai Shetty
+698,986,Full Time,Drupal,Sumithra Rai Shetty
+699,507,Full Time,"React.js,Node.js",Sumithra Rai Shetty
+700,216,Full Time,"Node.js,MySQL,Laravel,AWS,Docker",Mahalakshmi S
+701,873,Full Time,"Appian,Java,Pega,IBM BPM,Drools",Udeshna Boruah Kalita
+702,592,Full Time,"Data Structures,Algorithms,Microservices",Prashanthi T
+703,975,Full Time,"Product Management,Data Analysis,Consumer Software",Sonam Yadav
+704,706,Full Time,"Build Tools,CI - CD,Linux,Ansible,AWS,Bamboo,Chef,Codeship,Docker,Google Cloud,Jenkins,Kubernetes,Maven,OpenStack",Priya Ummadi
+705,833,Full Time,Automobile Engineering,Swatee Paithankar
+706,716,Full Time,"C,C++,Golang,Java,Python",Ashutosh Kinikar
+707,334,Full Time,"Ethical Hacking,OWASP,Application Security,Burp Suite,Metasploit",Jyotsna Gupta
+708,659,Full Time,"Java,Node.js,MongoDB,Elasticsearch",Subhajit Purkait
+709,318,Full Time,"Java,Node.js,Microservices,MongoDB,Elasticsearch",Asha L
+710,577,Full Time,"React.js,JavaScript,HTML,Angular,Node.js",Sreya Dev KK
+711,404,Full Time,".NET,ASP.NET,Angular,JavaScript,HTML",Krishna Kanabur
+712,609,Full Time,"Sales,Telecalling",Angel Edwards Karolin
+713,616,Full Time,"Scrum,Program Management,Agile,Project Management,PMO",Ritik Sharma
+714,384,Full Time,"Android,Kotlin",Khushi Pandey
+715,414,Full Time,"Java,Hibernate,Spring Boot,Spring,Microservices",Tanya Raval
+716,212,Full Time,"Python,React.js,Ruby on Rails,Golang,JavaScript",Ismail Yakub Shaikh
+717,822,Full Time,"Node.js,Java,MongoDB,Elasticsearch,React.js",Nithin N
+718,697,Full Time,"Java,Node.js,MongoDB,Elasticsearch,SQL",Nithin N
+719,770,Full Time,"Agile,Scrum",Gayathri Gowda
+720,326,Full Time,"Embedded C,C,IoT,SPI,UART",Swathi Madagoni
+721,399,Full Time,"Java,React.js,Microservices,JavaScript",Priyanka Mahindrakar
+722,230,Full Time,Business Development,Hr
+723,591,Full Time,"Law,Functional Consulting,Technical Consulting,Legal Drafting,Legal Compliance",Aarthi P
+724,263,Full Time,Operations Management,Khurram Jafri
+725,247,Full Time,"Kubernetes,Jenkins,AWS,DevOps,Docker",Aashi Bansal
+726,240,Full Time,"AWS,Microservices,Engineering Management,PERT,Quality Assurance",Suranjan Barman
+727,925,Full Time,"C++,Machine Learning,Python,Fraud Management,NLP",Divya Taneja
+728,918,Full Time,"Node.js,MongoDB,SQL,Express.js,NestJS",Saumya Arora
+729,304,Full Time,"Java,Node.js,MongoDB,Elasticsearch",Sagar Mangtani
+730,736,Full Time,"Quality Assurance,Python,Selenium,Automation Testing,API Testing",Divya Sharma
+731,469,Full Time,"SAP HCM - HR,Recruitment,Employee Engagement,Grievance Management,HR Operations",Aarthi P
+732,417,Full Time,"Business Development,Direct Sales,Sales",Russell Fernandes
+733,111,Full Time,"ETL,Data Warehousing,Microservices,SQL Server,Docker",Ardhendu Bikash Acharjee
+734,223,Full Time,"SQL,T-SQL,C#",Pratibha Pallavee
+735,526,Full Time,"Hibernate,J2EE,Java,Spring,Struts",Bhargavi S
+736,722,Full Time,"CSS,HTML,JavaScript,Angular,React.js,Vue.js",Sakshi Khanna
+737,362,Full Time,"Brand Management,Business Development,Category Management,General Management,Operations Management,Corporate Strategy,Strategic Planning",Sakshi Khanna
+738,631,Full Time,"Big Data,Python,Java,Node.js,DevOps",Rayal Rajan
+739,311,Full Time,"Microsoft Dynamics NAV,ERP Implementation,Manufacturing,Microsoft Dynamics,Microsoft Dynamics AX",Priyanka Raj
+740,764,Full Time,"2D Animation,3D Animation,Graphic Design,3ds Max,Adobe After Effects,Illustrator,InDesign,Photoshop",Neha Kothari
+741,742,Full Time,"React.js,JavaScript,Progressive Web Apps,Redux,HTML",Roshan Muniraj
+742,631,Full Time,"JavaScript,React.js",Lekha Govindaraj
+743,392,Full Time,"Customer Interaction,Key Account Management,Vendor Management,Compliance Management,Contract Management",Reshma Nair
+744,112,Full Time,"Docker,Data Structures,Python,AWS,CI - CD",Radhika Sharma
+745,247,Full Time,"Java,Spring,Microservices,Data Structures,Algorithms",Rutu Lakhani
+746,889,Full Time,"Business Development,Corporate Sales,Sales",Aarif Siddiqui
+747,510,Full Time,"Business Development,Corporate Sales,Sales",Aarif Siddiqui
+748,281,Full Time,"DevOps,AWS,Python,Docker,Kubernetes",Priyanka Kumari
+749,825,Full Time,"Ansible,CI - CD,Docker,IT Infrastructure,Kubernetes,Prometheus,VPN",Subhashree Mallick
+750,444,Full Time,"AWS,Python,DevOps,Docker,CI - CD",Megha Joshi
+751,818,Full Time,"React.js,Node.js",Suman Kumari
+752,382,Full Time,"Presales,Public Relations,Corporate Communication",Itisha Goel
+753,779,Full Time,".NET,ASP.NET,C#,CSS,Java",Vanshita Singh
+754,467,Full Time,"CSS,HTML,JavaScript,Angular,jQuery,React.js",Seema Patil
+755,626,Full Time,"C++,Golang,Java,Ruby,Scala",Aishwarya
+756,108,Full Time,"JavaScript,Node.js,Python",Suhas S HR Talent Acquisition
+757,937,Full Time,"GST,TDS,Taxation,Finance,Income Tax",Poonam Thute
+758,821,Full Time,"Brand Management,Marketing Communication",Aarif Siddiqui
+759,416,Full Time,"Data Analysis,Data Streaming,Data Warehousing,ETL,NoSQL,Kafka,Oracle Database,Spark,SQL",Neha Gupta
+760,337,Full Time,"JavaScript,React.js",Harshita Sahu
+761,612,Full Time,"Java,Spring,AWS",Opportunity Rm
+762,492,Full Time,"React.js,JavaScript,Python,Node.js,AWS",Opportunity Rm
+763,667,Full Time,"Customer Interaction,Customer Relationship,Customer Service",Maumita Pan
+764,373,Full Time,"Engineering Management,Golang,Node.js,PostgreSQL,Redis,TypeScript",Rishika Singh
+765,604,Full Time,"Java,Spring Boot,React.js,Microservices,PostgreSQL",Nidhi Singh
+766,724,Full Time,"Zephyr,Mobile Apps Testing,Amazon CloudWatch,Manual Testing,SQL",Pradeep Yadav
+767,694,Full Time,Business Development,Abinaya Vasudevan
+768,286,Full Time,"JavaScript,Node.js,React.js",Shobha Nanj
+769,135,Full Time,"React.js,JavaScript",Udeshna Boruah Kalita
+770,476,Full Time,"Machine Learning,Computer Vision,Python,Image Processing",Aditi Kumari
+771,733,Full Time,"Level Switch,Java,SQL,Visa Processing,Jira",Bhanu Priya L
+772,407,Full Time,Image Processing,Akshay Siva Chandran Srinivasan
+773,568,Full Time,"Oracle ATG Web Commerce,ATG Dynamo,Java",Himanshu Kumar Sinha
+774,575,Full Time,"PHP,Laravel,SQL,CodeIgniter,CakePHP",Riya Chaurasia
+775,273,Full Time,"Customer Service,Customer Relationship,International BPO",Priyanka Patra
+776,119,Full Time,"Power BI,SQL,Tableau",Neha Jaiswal
+777,469,Full Time,Teradata,Neha Jaiswal
+778,104,Full Time,"Machine Learning,Python,NLP,PyTorch,Statistical Modelling",Gopikrishnan Kg
+779,529,Full Time,"Big Data,Python,Machine Learning,Data Analysis",Srija Mukherjee
+780,653,Full Time,"Employee Engagement,Talent Management,Performance Management,Employee Benefits",Preksha Trivedi
+781,760,Full Time,"Automation Testing,CI - CD,Selenium,HTML,CSS",Abhilasha Santosh
+782,374,Full Time,Operations Management,Divya Kasula
+783,780,Full Time,"C,C++,Golang,Java,Python",Divya Kasula
+784,212,Full Time,".NET,Angular,ASP.NET,C#,SQL Server",Nayana Patil
+785,582,Full Time,"SAPUI5,SAP Fiori,SAP S4 HANA,JavaScript,C#",Nikita Dayalan
+786,641,Full Time,"Business Development,Corporate Sales,Direct Sales,Sales,Telecalling",Tuzar Baria
+787,688,Full Time,"Oracle Database,Compensation Management,Data Migration,Oracle Payroll,Oracle HCM",Aasia Azad
+788,744,Full Time,"Node.js,Java",Shivangi Singh
+789,576,Full Time,"Java,Node.js,MongoDB",Shivangi Singh
+790,250,Full Time,"C++,Node.js,Python,WindBG,Rational ClearCase",Ardhendu Bikash Acharjee
+791,778,Full Time,"Automation Testing,SDET,Java,Python,Selenium",Alfazhil Dharif
+792,355,Full Time,"Digital Marketing,Performance Marketing,Product Marketing,Brand Management,Social Media Marketing",Pranali Vinod Gajbhiye
+793,888,Full Time,"Azure,Docker,DevOps,Kubernetes,Python",Nithin N
+794,501,Full Time,"Accounting,Contract Management,Bill Processing,Vendor Management",Poonam Thute
+795,584,Full Time,"Java,ASP.NET,SQL,Ruby on Rails,JSON",Ardhendu Bikash Acharjee
+796,750,Full Time,"API Testing,Git,SQL",Muskaan Maini
+797,723,Full Time,Sales,Virendra Bhati
+798,709,Full Time,"React.js,JavaScript",Udeshna Boruah Kalita
+799,541,Full Time,"Customer Interaction,Customer Relationship,Key Account Management",Sarbanee Nayak
+800,640,Full Time,"React.js,TypeScript,Jest,Redux",Kislay Varma
+801,769,Full Time,"Project Management,CSM,Resource Management,Performance Management",Archi Kathuria
+802,941,Full Time,"Python,Terraform,DevOps,Kubernetes,Docker",Prashanthi T
+803,844,Full Time,"CSS,HTML,JavaScript,Angular",Pooja Kumari
+804,830,Full Time,"Python,Robot Framework,Automation Testing,DevOps,SDET",Garima Maheshwari
+805,417,Full Time,"Java,Spring,Microservices,Data Structures,Algorithms",Garima Maheshwari
+806,939,Full Time,"SQL,C#,T-SQL,SQL Server",Bhuvaneshwari T
+807,363,Full Time,"React.js,ASP.NET,SQL,JavaScript,C#",Bhuvaneshwari T
+808,195,Full Time,"Accounting,Finance,Budgeting,Financial Analysis,Financial Reporting",Komal Kareer
+809,685,Full Time,"Content Marketing,Content Writing,English Content",Sarbanee Nayak
+810,391,Full Time,"Automation Testing,Selenium",Ankita Sharma
+811,100,Full Time,"Docker,Terraform,Python,Azure",Asha L
+812,462,Full Time,"Salesforce,Salesforce Marketing Cloud,Email Marketing",Kriti Bumb
+813,898,Full Time,"Enterprise Software,Product Management,Supply Chain Management",Ankita Ghosh
+814,470,Full Time,"Customer Service,Customer Interaction",Swapnil Nautiyal
+815,108,Full Time,"Automation Testing,Manual Testing,Selenium",Swati Sharma
+816,209,Full Time,"Rust,Java,C++,Linux,Embedded Systems",Deepika Kangokar
+817,472,Full Time,"Machine Learning,Python,NLP,NumPy,MLOps",Bhoomika Gm
+818,261,Full Time,"Accounting,Auditing,Finance,Taxation,Budgeting,External Audit,GST,Income Tax,Internal Audit,Payroll Management,QuickBooks,Tally,TDS",Divya Someshwar
+819,686,Full Time,"Java,Microservices,AWS,Azure,NoSQL",Divya Dwivedi
+820,314,Full Time,Technical Support,Deepa S
+821,369,Full Time,"React.js,Next.js,JavaScript,HTML,CSS",Surabhi Varshney
+822,165,Full Time,"Android,Hybrid Apps,iOS,Windows Phone,React Native",Sunandita Supkar
+823,784,Full Time,"C++,Shell Scripting,GDB,Algorithms",Ardhendu Bikash Acharjee
+824,303,Full Time,Sales,Pratikshya Pusty
+825,538,Full Time,Solution Architecture,Ananth C S
+826,329,Full Time,"SQL,C#,.NET",Sakshi Sahu
+827,971,Full Time,"Oracle Projects,Oracle E-Business Suite,Oracle BRM,MFG,Procurement",Bhaskar Anand
+828,959,Full Time,"International Sales,Logistics Management,Sales,Supply Chain Management",Consult Bae
+829,939,Full Time,"Django,Flask,Python,SQL",Virender Singh
+830,510,Full Time,"Sales,Direct Sales,Corporate Sales,Business Development,Public Relations",Mouli Dolui
+831,356,Full Time,"Chartered Accountant,Finance,Accounting",Swapnil Nautiyal
+832,177,Full Time,"IT Support,Azure,L1 Support,Virtualization,Networking",Komala N
+833,465,Full Time,"Project Management,PMO,RAID",Aneesha Chandrabhanu
+834,504,Full Time,"Business Development,Sales,Telecalling",Hr Learningshala
+835,655,Full Time,"React.js,iOS,Android,TypeScript,Git",Priya Desai
+836,879,Full Time,"Content Marketing,Digital Marketing,Facebook Marketing,Google Ads,SEM,Social Media Marketing",Eva Srivastava
+837,642,Full Time,"React.js,Python,Java,Ruby,Golang",Ismail Yakub Shaikh
+838,429,Full Time,"Marketing,Digital Marketing,Business Development,Content Writing,Social Media Marketing",Suranjan Barman
+839,235,Full Time,"Blockchain,Node.js,React.js,Solidity",Antara Chaudhury
+840,506,Full Time,"Sales,Customer Interaction,Presales",Rajesh Dhariwal
+841,103,Full Time,"Content Marketing,Digital Marketing,Facebook Marketing,Google Ads,SEM,SEO,Social Media Marketing",Acor World
+842,930,Full Time,"PostgreSQL,Python,Amazon Redshift,AWS Glue,Cloudera",Amisha Joshi
+843,592,Full Time,"CI - CD,Azure",Saran Vura
+844,176,Full Time,"JavaScript,Python,Ruby,Angular,Django,Node.js,React.js,Ruby on Rails,Vue.js",Abhishek Tushar
+845,298,Full Time,"Recruitment,Operations Management,Policy Formulation,Policy Implementation,Labour Law",Manish Nirwal
+846,861,Full Time,"Customer Interaction,Customer Relationship,Customer Service,Key Account Management",Saaniya Shaikh
+847,174,Full Time,"Automation Testing,Java,Cucumber,Selenium",Jayant Kumar
+848,479,Full Time,"DITA,Oxygen,Technical Writing,XML",Balaji Sundaravadivel
+849,166,Full Time,"Java,Machine Learning,Python,R",Deepti Negi
+850,491,Full Time,"Automation Testing,SDET,Java,Selenium",Amrit Kumar Dash
+851,805,Full Time,"Embedded C,Microcontrollers,CAPL,White Box Testing",Bhavana Govil
+852,692,Full Time,Android,Heena Shirol
+853,469,Full Time,"Corporate Communication,Sales",Kalpana Chauhan
+854,349,Full Time,"Automation Testing,Mobile Apps Testing,SDET",Priyanka Sharma
+855,629,Full Time,"Node.js,Spark,Java,Spring,HBase",Soumyashree Sr
+856,641,Full Time,"React.js,Redux,Next.js,TypeScript",Saranya R
+857,961,Full Time,"SEO,English Content,Content Writing",Narkish M
+858,751,Full Time,"Inventory Management,Logistics Management,Vendor Management",Marsina Waffa
+859,701,Internship,"Business Development,International Sales,Sales",Ami Mehta
+860,146,Full Time,Android,Praneeta Mandal
+861,236,Full Time,"JavaScript,PHP,jQuery,Wordpress",Mohit Singh
+862,356,Full Time,"Python,Django,Flask",Srishti Basu
+863,588,Full Time,"Project Management,CI - CD,Scrum,Product Lifecycle Management",Priyal Gupta
+864,908,Full Time,"Python,AWS,Machine Learning",Srishti Kashyap
+865,895,Full Time,"MongoDB,Express.js,Node.js,Data Structures,Engineering Management",Kriti Agrawal
+866,925,Full Time,"Java,Spring Boot,Microservices,Hibernate",Amardeep Singh
+867,863,Full Time,"Java,Spring Boot",Bhuvaneshwari T
+868,451,Full Time,"PHP,Laravel",Sanjana Datta
+869,979,Full Time,"Java,React.js,Spring Boot,Microservices",Sumithra Rai Shetty
+870,555,Full Time,"Java,React.js,Microservices",Vishal Negi
+871,151,Full Time,"Recruitment,IT Recruitment,Stakeholder Management",Kavya P
+872,425,Full Time,"Angular,Angular Material,NgRx,RxJS,JavaScript",Swaraj Chaturvedi
+873,721,Full Time,"Java,Spring,Spring Boot",Swathi N
+874,730,Full Time,"Java,AWS,Spring Boot,Kafka,Spring",Swathi N
+875,264,Full Time,"IT Support,Technical Support,Desktop Troubleshooting,Network Troubleshooting",Neha Soni
+876,300,Full Time,"Customer Interaction,Key Account Management,Change Management,CRM,React.js",Nupur Rajpal
+877,660,Full Time,"Marketing,Content Marketing,SEO,SEM,Google Ads",Sharmila M
+878,374,Full Time,"Manual Testing,Automation Testing",Ankita Sharma
+879,677,Full Time,"Node.js,Express.js",Abhishek Anand
+880,424,Full Time,"Data Warehousing,ETL,Spark,Hadoop,Big Data",Shridevi Gumaste
+881,126,Full Time,"Business Development,Sales",Sakthi Sundaresan
+882,841,Full Time,"Node.js,React.js,Algorithms,Data Structures,JavaScript",Namrata Sharma
+883,219,Full Time,"SDET,Quality Assurance,HTML,CSS,CI - CD",Namrata Sharma
+884,521,Full Time,"Cypress,API Testing,Database Testing,Automation Testing,Manual Testing",Swaraj Chaturvedi
+885,602,Full Time,"Salesforce,CRM,API Testing,ERP Implementation",Swaraj Chaturvedi
+886,523,Full Time,"C#,Xamarin,.NET,Android,WPF",Khushboo Kothari
+887,931,Full Time,Golang,Ankita Sharma
+888,580,Full Time,Quality Control,B Ambekar
+889,252,Full Time,"ADAS,C++,Python,Automotive Embedded Systems",Bhanu Priya L
+890,867,Full Time,"Big Data,AWS,Python,SQL,ETL",Swaraj Chaturvedi
+891,798,Full Time,"Oracle PPM,Oracle Cloud,Oracle Fusion Applications,Oracle Integration,Accounting",Bhaskar Anand
+892,245,Full Time,"Oracle Cloud,Oracle PPM,Oracle Fusion Applications,Oracle General Ledger,Accounting",Bhaskar Anand
+893,660,Full Time,"Oracle PPM,Oracle Fusion Applications,Oracle Cloud,Oracle General Ledger,Accounting",Bhaskar Anand
+894,879,Full Time,"Oracle Cloud,Oracle PPM,Oracle General Ledger,Accounting,Oracle Fusion Applications",Bhaskar Anand
+895,692,Full Time,"CSS,HTML,JavaScript,Angular,jQuery,React.js,Vue.js",Sakshi Khanna
+896,685,Full Time,"Computer Vision,Data Mining,Machine Learning,NLP,Python,R",Mandeep Makkar
+897,975,Full Time,"Performance Testing,JMeter,LoadRunner,Quality Assurance,NeoLoad",Robin Raju
+898,108,Full Time,"Business Development,Sales",Sayed Moin
+899,115,Full Time,"CI - CD,Linux,Ansible,Azure,Jenkins",Khushbu B
+900,974,Full Time,".NET,Golang,Java,Node.js,ASP.NET,C#,Hibernate,J2EE,Spring",Divya Manavalan
+901,813,Full Time,"Computer Vision,Machine Learning,NLP,Python,R,Keras,OpenCV,PyTorch,TensorFlow",Ronald J
+902,477,Full Time,"Ab Initio,ETL,SQL,Python,Bash",Bhaskar Anand
+903,962,Full Time,"Ab Initio,ETL,SQL,Python,Base SAS",Bhaskar Anand
+904,638,Full Time,"Oracle PPM,Oracle Cloud,Oracle Fusion Applications,Oracle Integration,Accounting",Bhaskar Anand
+905,774,Full Time,"Compensation Management,Employee Benefits,Employee Engagement,Learning and Development,Performance Management,Talent Management",Joanita Borges Lawrence
+906,777,Full Time,"Business Development,Sales,Direct Sales,Event Management,Customer Service",Suranjan Barman
+907,892,Full Time,"Operations Management,Customer Service,Travel Management,Networking,Event Management",Suranjan Barman
+908,157,Full Time,"Brand Management,Business Development,Category Management,General Management,Operations Management,Corporate Strategy,Strategic Planning",Sakshi Khanna
+909,447,Full Time,"Firewalls,AWS,Cisco ASA,Networking,Network Security",Gayatri Laveti
+910,370,Full Time,"Business Development,Direct Sales",Lakshay Sehgal
+911,540,Full Time,"Keras,Machine Learning,NLP,PyTorch,Python,TensorFlow",Ronald J
+912,996,Full Time,Product Management,Preeti Gaur
+913,482,Full Time,"Ab Initio,ETL,SQL,Python,Bash",Bhaskar Anand
+914,331,Full Time,"Ab Initio,ETL,Python,Bash,SQL",Bhaskar Anand
+915,456,Full Time,"Compensation Management,Employee Benefits,Employee Engagement,Learning and Development,Performance Management,Recruitment,Talent Management",Joanita Borges Lawrence
+916,270,Full Time,"Business Development,Sales,Travel Management,Customer Service,Travel Planning",Suranjan Barman
+917,248,Full Time,"CSS,HTML,JavaScript,React.js",Akasmat Pradhan
+918,923,Full Time,"International Sales,Sales,Business Development,Corporate Sales,Direct Sales",Vandana Hirey
+919,814,Full Time,"Java,Spring",Rupa Jha
+920,863,Internship,"Python,SQL,Tableau,NumPy,pandas",Pooja V Chalageri
+921,135,Full Time,"Salesforce,Sales Operations,Order Fulfillment,CRM,Data Migration",Cleonna John Prakash
+922,422,Full Time,"Python,Flask,FastAPI,Django,AWS",Mubasshara Khatri
+923,888,Full Time,"JavaScript,Angular,React.js,CSS,HTML",Divyanshu Singh
+924,447,Full Time,"IBP,SAP PP,SAP QM",Loshy Chandran
+925,534,Full Time,"Oracle PPM,Oracle Fusion Applications,Oracle Cloud,Oracle Procurement Cloud,Oracle Integration",Bhaskar Anand
+926,639,Full Time,"Oracle PPM,Oracle Cloud,Oracle Fusion Applications,Accounting,Oracle Integration",Bhaskar Anand
+927,364,Full Time,"Oracle PPM,Accounting,Oracle Cloud,Oracle Fusion Applications,Oracle Integration",Bhaskar Anand
+928,459,Full Time,"Customer Interaction,Customer Relationship,Customer Service",Joanita Borges Lawrence
+929,852,Full Time,"5G,DPDK,QOS,C++,C",Venkatesh P
+930,975,Full Time,"Customer Service,Sales,Business Development,Marketing,Customer Relationship",Meghana Gargelwar
+931,594,Full Time,Appian,Amit Rathor
+932,479,Full Time,"Node.js,AWS,MongoDB",Ankita Sharma
+933,273,Full Time,"Business Development,Corporate Sales,Direct Sales,International Sales,Sales,Telecalling",Muskan Bhansali
+934,460,Full Time,"Oracle PPM,Oracle Cloud,Oracle Fusion Applications,Accounting,ERP Implementation",Bhaskar Anand
+935,475,Full Time,"C++,Golang,Java,Python,Django,Flask",Neeraj Singh
+936,121,Full Time,"Content Writing,Social Media Marketing,Technical Writing,Digital Marketing",Abhishek Singh
+937,658,Full Time,"Data Analysis,Data Streaming,ETL,NoSQL,Aerospike,Amazon DynamoDB,AWS Glue,Cassandra,Databricks,Flink,HBase,HDFS,Hive,Kafka,Pig,Redis,Spark,SQL,Storm",Elish Ismael
+938,648,Full Time,Product Management,Awais Shaikh
+939,718,Full Time,"CSS,HTML,JavaScript,React.js",Asutosh Maharana
+940,138,Full Time,"Power BI,Tableau,SQL,Data Modelling,Data Analysis",Kusha Bedre
+941,133,Full Time,"Node.js,PHP,Laravel,MySQL,AWS",Mahalakshmi S
+942,366,Full Time,"Flutter,Java,Kotlin,React Native",Feroj Sayyad
+943,976,Full Time,"Business Analysis,Loans,Financial Markets,Data Governance,Fixed Deposits",Bhaskar Anand
+944,501,Full Time,"Business Analysis,Loans,Fixed Deposits,Data Governance,Equity Derivatives",Bhaskar Anand
+945,351,Full Time,"Business Analysis,Loans,Fixed Deposits,Financial Markets,Data Governance",Bhaskar Anand
+946,879,Full Time,"DevOps,Azure,AWS,Unix,Terraform",Bhuvaneshwari T
+947,682,Full Time,"Java,Spark,Flink,Hadoop,Microservices",Priyanka Mahindrakar
+948,481,Full Time,"Java,JavaScript,Node.js,React.js,Spring",Ananya Rajesh
+949,561,Full Time,"JavaScript,React.js",Venkatesh Tangirala
+950,604,Full Time,".NET,Android,Golang,iOS,Java,JavaScript,Python,Ruby,Angular,C#,J2EE,Node.js,React.js",Swetha Loganathan
+951,204,Full Time,"Java,Spring Boot,Microservices,Data Structures,AWS",Reshma Gutha
+952,564,Full Time,"NLP,Machine Learning,Python,Keras,R",Ankush Thakur
+953,909,Full Time,"Azure Data Factory,RDBMS,SQL,Data Warehousing,ETL",Bhaskar Anand
+954,983,Full Time,"Azure Data Factory,RDBMS,SQL,ETL,Data Warehousing",Bhaskar Anand
+955,161,Full Time,"Azure Data Factory,RDBMS,SQL,Data Warehousing,ETL",Bhaskar Anand
+956,274,Full Time,"Loans,Business Process Management (BPM),Business Analysis,Financial Markets,Data Governance",Bhaskar Anand
+957,197,Full Time,"Business Analysis,Loans,Fixed Deposits,Data Governance,Investment Banking",Bhaskar Anand
+958,351,Full Time,"Copy Writing,Copy Editing,Content Writing,English Content",Swapnil Nautiyal
+959,976,Full Time,"Angular,Hybrid Apps,Ionic",Mufitha K M
+960,118,Full Time,"Manual Testing,Mobile Apps Testing,Android",Namrata Sharma
+961,585,Full Time,"Python,Django,Flask",Srishti Basu
+962,282,Full Time,"Big Data,Python,AWS,SQL,Scala",Hireign Innoways
+963,998,Full Time,"Business Development,Direct Sales,Sales",Akanksha Pillay
+964,609,Full Time,"Azure Data Factory,RDBMS,SQL,Data Warehousing,ETL",Bhaskar Anand
+965,362,Full Time,"Azure Data Factory,RDBMS,SQL,ETL,Data Warehousing",Bhaskar Anand
+966,123,Full Time,"Azure Data Factory,RDBMS,SQL,Data Warehousing,ETL",Bhaskar Anand
+967,544,Full Time,"Azure Data Factory,RDBMS,SQL,Data Warehousing,ETL",Bhaskar Anand
+968,805,Full Time,"Azure Data Factory,RDBMS,SQL,Data Warehousing,ETL",Bhaskar Anand
+969,167,Full Time,"Java,Microservices,Docker,AWS,Azure",Nithin N
+970,893,Full Time,"Employee Engagement,Recruitment",Sudhakar Mylsamy
+971,272,Full Time,"Direct Sales,Business Development,Sales,Telecalling,Corporate Sales",Rahul Tharika
+972,158,Full Time,Python,Nikhlaish Bhat Hehimhis
+973,401,Full Time,"JavaScript,React.js",Yermie Cohen MD
+974,425,Full Time,"Data Mining,Python,R",Ankita Jai Singh
+975,631,Full Time,"AWS,Algorithms,Angular,Azure,CI - CD,CSS,Data Structures,DevOps,Distributed Systems,Elasticsearch,Enterprise Software,Google Cloud,HTML,Java,JavaScript,Kafka,Microservices,NoSQL,React.js,SQL,Spring",Pramith Kumar
+976,376,Full Time,"Technical Support,MySQL,Key Account Management",Garima Maheshwari
+977,799,Full Time,"Digital Marketing,Social Media Marketing",Kanchan Bhandari
+978,129,Full Time,"Golang,Python,Ruby,Ruby on Rails",Sushmita Nayak
+979,100,Full Time,"Angular,Java,Microservices,MongoDB,Spring Boot",Sumithra Rai Shetty
+980,171,Full Time,"Information Security,SOC,ISO 27001",Consult Bae
+981,220,Full Time,"Automation Testing,JavaScript",Kamal Kumar
+982,616,Full Time,"Customer Interaction,Customer Relationship,Customer Service",Susmita Biswas
+983,979,Full Time,"Xamarin,C#,.NET",Krishanu B
+984,398,Full Time,"Xamarin,C#,.NET",Krishanu B
+985,644,Full Time,"Azure,Azure Data Factory,Azure Functions,Python,JavaScript",Bhaskar Anand
+986,343,Full Time,"Azure,Azure Functions,Azure Data Factory,Python,JavaScript",Bhaskar Anand
+987,895,Full Time,"Computer Vision,Keras,Machine Learning,NLP,PyTorch,Python,Scikit-learn,TensorFlow",Hr
+988,366,Full Time,"Ruby,Ruby on Rails",Sushmita Nayak
+989,627,Full Time,"Agile,Scrum",Padmavathi S
+990,522,Full Time,"SQL Server,ASP.NET,JavaScript,Azure",Shivkumar Gurram
+991,833,Full Time,"AWS,PySpark,SQL,Amazon Redshift,Airflow",Opportunity Rm
+992,193,Full Time,"AWS,Python,AWS Lambda,Git,Jira",Opportunity Rm
+993,749,Full Time,"Salesforce,Visualforce",Vani Engani
+994,230,Full Time,"Python,Machine Learning,Algorithms,Unix,Shell Scripting",Bhaskar Anand
+995,629,Full Time,"Python,NLP,Shell Scripting,Machine Learning,Algorithms",Bhaskar Anand
+996,180,Full Time,"OpenCV,Python,NLP,Machine Learning",Bhaskar Anand
+997,549,Full Time,"NLP,Python,Shell Scripting,Machine Learning,Algorithms",Bhaskar Anand
+998,730,Full Time,"Machine Learning,Algorithms,Python,Unix,Shell Scripting",Bhaskar Anand
+999,597,Full Time,"Machine Learning,Algorithms,Python,Unix,Shell Scripting",Bhaskar Anand
