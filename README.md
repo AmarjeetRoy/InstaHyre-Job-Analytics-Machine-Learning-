@@ -60,6 +60,10 @@ The project's scope was divided into two core segments:
     - `Job_details.html`: Page showing detailed job posting information.
   - `Processed_file.csv`: Processed data with class information and details for display on the website.
 
+- `Job Analytics Presentation.pptx`: Presentation showcasing project details and insights.
+  
+- `README.md`: This file, providing an overview of the project, its structure, and usage instructions.
+
 
 ## Usage
 
