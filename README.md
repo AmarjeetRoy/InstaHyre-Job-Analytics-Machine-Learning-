@@ -4,7 +4,7 @@ Welcome to the **Instahyre Job Analytics** repository! This project revolves aro
 
 ## Team Members
 
-- Amarjeet Roy
+- Amarjeet Roy (My Self)
 - Priya Bhardwaj
 - Ajay Kumar
 - Bharat Sharma
@@ -21,18 +21,18 @@ The data extraction phase involves obtaining job posting data from Instahyre's w
 We gathered data by automating web scraping with Python's Selenium library. Our target was to scrape data like "job_id," "company_id," "location," "designation," "name," "estab_year," "employees_count," "involvement," "skills," and "hr_name" from the Instahyre website. This process was simplified by utilizing a custom Selenium script tailored for this specific task.
 
 **Reference Files:**
-- [Extraction_Code.py](Extraction/Extraction_Code.ipynb): Python script for web scraping job posting data and LinkedIn information.
+- [`Extraction_Code.ipynb`](Extraction/Extraction%20Code.ipynb): Python script for web scraping job posting data and LinkedIn information.
 
 ### Data Preparation
-After scraping the data, our next step involved comprehensive data cleaning and transformation using Python libraries. This step was essential for handling missing values, outliers, and ensuring data consistency. Additionally, we organized the cleaned data into three separate tables, these tables can be found in **[Table](Extraction/Tables)** folder inside the **[Extraction](Extraction)** Folder:
-- **[Jobs Table](Extraction/Tables/job.csv)**: This table contains information related to job postings, including "job_id," "location," "designation," "skills," and "hr_name."
-- **[Company Table](Extraction/Tables/company.csv)**: Here, we stored company-specific data such as "company_id," "name," "estab_year," and "employees_count."
-- **[Details Table](Extraction/Tables/Details.csv)**: This table holds additional details related to job postings and companies, including "involvement" and other relevant information.
-- **[Merged Table](Extraction/Tables/Merged_data.csv)** : This Table contains all the scrpaed Details including Linkedin's data and all three table's data.
+After scraping the data, our next step involved comprehensive data cleaning and transformation using Python libraries. This step was essential for handling missing values, outliers, and ensuring data consistency. Additionally, we organized the cleaned data into three separate tables, these tables can be found in **[`Table`](Extraction/Tables)** folder inside the **[`Extraction`](Extraction)** Folder:
+- [`Jobs Table`](Extraction/Tables/job.csv): This table contains information related to job postings, including "job_id," "location," "designation," "skills," and "hr_name."
+- **[`Company Table`](Extraction/Tables/company.csv)**: Here, we stored company-specific data such as "company_id," "name," "estab_year," and "employees_count."
+- **[`Details Table`](Extraction/Tables/Details.csv)**: This table holds additional details related to job postings and companies, including "involvement" and other relevant information.
+- **[`Merged Table`](Extraction/Tables/Merged_data.csv)** : This Table contains all the scrpaed Details including Linkedin's data and all three table's data.
 
 **Additional Files in Extraction Directory:**
-  - [Job webLink.csv](Extraction/CSV%20Files/Job%20webLink.csv): Contains web links of all job pages.
-  - [New Updated Csv.csv](Extraction/CSV%20Files/New%20Updated%20Csv.csv): Preprocessed data with some initial modifications.
+  - [`Job webLink.csv`](Extraction/CSV%20Files/Job%20webLink.csv): Contains web links of all job pages.
+  - [`New Updated Csv.csv`](Extraction/CSV%20Files/New%20Updated%20Csv.csv): Preprocessed data with some initial modifications.
 
 ## Data Preprocessing and Model Building
 
@@ -42,7 +42,7 @@ The data preprocessing and model building phase focus on refining the raw data a
 In this phase, we performed comprehensive data cleaning and preprocessing using Python libraries. This step is essential for handling missing values, outliers, and ensuring data consistency. The cleaning process improved the quality of the data for subsequent analysis.
 
 ### K-means Clustering Model
-We used Scikit-learn to build a K-means clustering model. This model categorizes companies based on their LinkedIn followers and employee count, allowing us to understand different company classes. The K-means model helped us gain insights into the job market and classify companies effectively.All these work's code can be found in **[Processing](Processing)** folder's  **[Data Preprocessing and Clustering.ipynb](Processing/Data%20Preprocessing%20and%20Clustering.ipynb)** file which took **[New Updated Csv.csv](Processing/New%20Updated%20Csv.csv)** as input Dataframe and Generated **[Processed_file.csv (Processing/Processed_file.csv)** with details of Job Class and Changes made in Data Cleaning.
+We used Scikit-learn to build a K-means clustering model. This model categorizes companies based on their LinkedIn followers and employee count, allowing us to understand different company classes. The K-means model helped us gain insights into the job market and classify companies effectively.All these work's code can be found in **[`Processing`](Processing)** folder's  **[`Data Preprocessing and Clustering.ipynb`](Processing/Data%20Preprocessing%20and%20Clustering.ipynb)** file which took **[`New Updated Csv.csv`](Processing/New%20Updated%20Csv.csv)** as input Dataframe and Generated **[Processed_file.csv (Processing/Processed_file.csv)** with details of Job Class and Changes made in Data Cleaning.
 
 ## Website Development and Model Deployment
 
@@ -50,19 +50,19 @@ The website development and model deployment phase involved creating an interact
 
 ### Frontend Development
 
-We designed and implemented the website's frontend using HTML and CSS. The website consists of three pages which are stored in [templates](Application/templates) :
+We designed and implemented the website's frontend using HTML and CSS. The website consists of three pages which are stored in [`templates`](Application/templates) :
 
-- **[first.html](Application/templates/first.html)**: The landing page where users input their skills.
-- **[second.html](Application/templates/second.html)**: A page that displays summarized job market insights.
-- **[Job_details.html](Application/templates/Job_details.html)**: A page presenting detailed job posting information.
+- **[`first.html`](Application/templates/first.html)**: The landing page where users input their skills.
+- **[`second.html`](Application/templates/second.html)**: A page that displays summarized job market insights.
+- **[`Job_details.html`](Application/templates/Job_details.html)**: A page presenting detailed job posting information.
 
 ### Backend Integration
 
-The Flask application **[app.py](Application/app.py)** handles user inputs and connects the front end to the back end. It enables users to interact with the data, explore insights, and retrieve specific job details.
+The Flask application **[`app.py`](Application/app.py)** handles user inputs and connects the front end to the back end. It enables users to interact with the data, explore insights, and retrieve specific job details.
 
 ## Additional Files
 
-- **[Job Analytics Presentation.pptx](Job%20Analytics%20Presentation.pptx)**: A presentation summarizing the project's details and key insights.
+- **[`Job Analytics Presentation.pptx`](Job%20Analytics%20Presentation.pptx)**: A presentation summarizing the project's details and key insights.
 
 <br>
 
