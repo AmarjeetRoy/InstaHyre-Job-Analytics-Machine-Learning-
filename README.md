@@ -16,13 +16,12 @@ The aim of the Instahyre Job Analytics project is two-fold. First, our goal is t
 ## Project Overview
 
 The data extraction phase involves obtaining job posting data from Instahyre's website. This process is crucial for gathering raw data that will be later cleaned, processed, and analyzed.
-
+<br>
 ### Web Scraping
 We gathered data by automating web scraping with Python's Selenium library. Our target was to scrape data like "job_id," "company_id," "location," "designation," "name," "estab_year," "employees_count," "involvement," "skills," and "hr_name" from the Instahyre website. This process was simplified by utilizing a custom Selenium script tailored for this specific task.
 
 **Reference Files:**
 - **[`Extraction_Code.ipynb`](Extraction/Extraction%20Code.ipynb)**: Python script for web scraping job posting data and LinkedIn information.
-
 ### Data Preparation
 After scraping the data, our next step involved comprehensive data cleaning and transformation using Python libraries. This step was essential for handling missing values, outliers, and ensuring data consistency. Additionally, we organized the cleaned data into three separate tables, these tables can be found in **[`Tables`](Extraction/Tables)** folder inside the **[`Extraction`](Extraction)** Folder:
 - **[`Jobs Table`](Extraction/Tables/job.csv)**: This table contains information related to job postings, including "job_id," "location," "designation," "skills," and "hr_name."
@@ -34,6 +33,8 @@ After scraping the data, our next step involved comprehensive data cleaning and 
   - **[`Job webLink.csv`](Extraction/Job%20webLinks.csv)**: Contains web links of all job pages.
   - **[`New Updated Csv.csv`](Extraction/New%20Updated%20CSV.csv)**: Preprocessed data with some initial modifications.
 
+<br>
+
 ## Data Preprocessing and Model Building
 
 The data preprocessing and model building phase focus on refining the raw data and creating a clustering model for analysis.
@@ -43,6 +44,8 @@ In this phase, we performed comprehensive data cleaning and preprocessing using 
 
 ### K-means Clustering Model
 We used Scikit-learn to build a K-means clustering model. This model categorizes companies based on their LinkedIn followers and employee count, allowing us to understand different company classes. The K-means model helped us gain insights into the job market and classify companies effectively.All these work's code can be found in **[`Processing`](Processing)** folder's  **[`Data Preprocessing and Clustering.ipynb`](Processing/Data%20Preprocessing%20and%20Clustering.ipynb)** file which took **[`New Updated Csv.csv`](Processing/New%20Updated%20CSV.csv)** as input Dataframe and Generated **[Processed_file.csv (Processing/Processed_file.csv)** with details of Job Class and Changes made in Data Cleaning.
+
+<br>
 
 ## Website Development and Model Deployment
 
