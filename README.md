@@ -21,14 +21,14 @@ The data extraction phase involves obtaining job posting data from Instahyre's w
 We gathered data by automating web scraping with Python's Selenium library. Our target was to scrape data like "job_id," "company_id," "location," "designation," "name," "estab_year," "employees_count," "involvement," "skills," and "hr_name" from the Instahyre website. This process was simplified by utilizing a custom Selenium script tailored for this specific task.
 
 **Reference Files:**
-- [Extraction_Code.py](Extraction/Extraction_Code.py): Python script for web scraping job posting data and LinkedIn information.
+- [Extraction_Code.py](Extraction/Extraction_Code.ipynb): Python script for web scraping job posting data and LinkedIn information.
 
 ### Data Preparation
 After scraping the data, our next step involved comprehensive data cleaning and transformation using Python libraries. This step was essential for handling missing values, outliers, and ensuring data consistency. Additionally, we organized the cleaned data into three separate tables, these tables can be found in **[Table](Extraction/Tables)** folder inside the **[Extraction](Extraction)** Folder:
 - **[Jobs Table](Extraction/Tables/job.csv)**: This table contains information related to job postings, including "job_id," "location," "designation," "skills," and "hr_name."
 - **[Company Table](Extraction/Tables/company.csv)**: Here, we stored company-specific data such as "company_id," "name," "estab_year," and "employees_count."
 - **[Details Table](Extraction/Tables/Details.csv)**: This table holds additional details related to job postings and companies, including "involvement" and other relevant information.
-- **[Merged Table](Extraction/Tables/Merged.csv)** : This Table contains all the scrpaed Details including Linkedin's data and all three table's data.
+- **[Merged Table](Extraction/Tables/Merged_data.csv)** : This Table contains all the scrpaed Details including Linkedin's data and all three table's data.
 
 **Additional Files in Extraction Directory:**
   - [Job webLink.csv](Extraction/CSV%20Files/Job%20webLink.csv): Contains web links of all job pages.
