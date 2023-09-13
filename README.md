@@ -1,10 +1,6 @@
 # Instahyre Job Analytics
 
-Welcome to the **Instahyre Job Analytics** repository! This project offers insightful analysis and visualization of the job market trends, gathered through web scraping and data analysis.
-
-## Project Overview
-
-The **Instahyre Job Analytics** project revolves around comprehensively understanding the job market dynamics using data-driven insights. Our team, consisting of dedicated members, embarked on a journey to extract, preprocess, and analyze job posting data from Instahyre and LinkedIn, shedding light on the employment landscape.
+Welcome to the **Instahyre Job Analytics** repository! This project revolves around comprehensively understanding the job market dynamics using data-driven insights. Our team, consisting of dedicated members, embarked on a journey to extract, preprocess, and analyze job posting data from Instahyre and LinkedIn, shedding light on the employment landscape.
 
 ## Team Members
 
@@ -14,95 +10,115 @@ The **Instahyre Job Analytics** project revolves around comprehensively understa
 - Bharat Sharma
 
 ## Aim
+The aim of the Instahyre Job Analytics project is two-fold. First, our goal is to build a model that can effectively summarize job posting data, providing users with a concise overview of job market trends. Second, we aim to create an interactive webpage that allows users to easily access and explore these job market insights. This project seeks to empower job seekers and recruiters with valuable information for informed decision-making.
+<br>
 
-The project's scope was divided into two core segments:
+## Project Overview
 
-1. **Data Extraction and Preprocessing:**
-   - We utilized the Selenium library to extract job posting data from Instahyre's website.
-   - The `Extraction` directory contains the extraction script `Extraction_Code.py` and extracted CSV files.
-   - The `Processing` directory features `Data Preprocessing and Clustering.ipynb` for data cleaning and K-means clustering.
+The data extraction phase involves obtaining job posting data from Instahyre's website. This process is crucial for gathering raw data that will be later cleaned, processed, and analyzed.
 
-2. **Interactive Website:**
-   - To visualize insights, we built an interactive website using Flask, HTML, and CSS.
-   - Users can input their skills, explore summarized job details, and dive into comprehensive job postings.
-   - The `Application` directory houses the website's code, templates, and processed data.
+### Web Scraping
+We gathered data by automating web scraping with Python's Selenium library. Our target was to scrape data like "job_id," "company_id," "location," "designation," "name," "estab_year," "employees_count," "involvement," "skills," and "hr_name" from the Instahyre website. This process was simplified by utilizing a custom Selenium script tailored for this specific task.
 
-## Key Components
+**Reference Files:**
+- [Extraction_Code.py](Extraction/Extraction_Code.py): Python script for web scraping job posting data and LinkedIn information.
 
-- `Extraction` Directory: Web scraping code and extracted data.
-- `Processing` Directory: Data preprocessing and K-means clustering notebooks.
-- `Application` Directory: Flask application and interactive website templates.
-- `Processed_file.csv`: Processed data with class information for website display.
+### Data Preparation
+After scraping the data, our next step involved comprehensive data cleaning and transformation using Python libraries. This step was essential for handling missing values, outliers, and ensuring data consistency. Additionally, we organized the cleaned data into three separate tables, these tables can be found in **[Table](Extraction/Tables)** folder inside the **[Extraction](Extraction)** Folder:
+- **[Jobs Table](Extraction/Tables/job.csv)**: This table contains information related to job postings, including "job_id," "location," "designation," "skills," and "hr_name."
+- **[Company Table](Extraction/Tables/company.csv)**: Here, we stored company-specific data such as "company_id," "name," "estab_year," and "employees_count."
+- **[Details Table](Extraction/Tables/Details.csv)**: This table holds additional details related to job postings and companies, including "involvement" and other relevant information.
+- **[Merged Table](Extraction/Tables/Merged.csv)** : This Table contains all the scrpaed Details including Linkedin's data and all three table's data.
 
-## Repository Structure
-- `Extraction`: Directory containing code and files related to web scraping and data extraction.
-  - `Extraction_Code.py`: Python script for web scraping job posting data and LinkedIn information.
-  - `Job webLink.csv`: Contains web links of all job pages.
-  - `merged Data.csv`: Merged data from Instahyre and LinkedIn.
-  - `New Updated Csv.csv`: Preprocessed data with some initial modifications.
-  - `Table`: Directory containing tables created from extracted data.
-    - `jobs.csv`: Contains job-related information with attributes `job_id`, `company_id`, `location`, `designation`, and `details_id`.
-    - `company.csv`: Contains company-related information with attributes `company_id`, `name`, `estab_year`, and `employees_count`.
-    - `details.csv`: Contains job details with attributes `details_id`, `involvement`, `skills`, and `hr_name`.
-    - `merged Data.csv`: Merged data from Instahyre and LinkedIn.
+**Additional Files in Extraction Directory:**
+  - [Job webLink.csv](Extraction/CSV%20Files/Job%20webLink.csv): Contains web links of all job pages.
+  - [New Updated Csv.csv](Extraction/CSV%20Files/New%20Updated%20Csv.csv): Preprocessed data with some initial modifications.
 
-- `Processing`: Directory containing code and files related to data preprocessing and clustering.
-  - `Data Preprocessing and Clustering.ipynb`: Jupyter Notebook containing data preprocessing and building the K-means clustering model using Python libraries.
-  - `Processed_file.csv`: Processed data with class information and details for display on the website.
-  - `New Updated Csv.csv`: Preprocessed data with some initial modifications.
-  
+## Data Preprocessing and Model Building
 
-- `Application`: Directory containing the code for the interactive website.
-  - `app.py`: Flask application to handle user inputs and serve web pages.
-  - `templates`: Directory containing HTML templates for the website pages.
-    - `first.html`: Landing page for user input.
-    - `second.html`: Page displaying summarized job market insights.
-    - `Job_details.html`: Page showing detailed job posting information.
-  - `Processed_file.csv`: Processed data with class information and details for display on the website.
+The data preprocessing and model building phase focus on refining the raw data and creating a clustering model for analysis.
 
-- `Job Analytics Presentation.pptx`: Presentation showcasing project details and insights.
-  
-- `README.md`: This file, providing an overview of the project, its structure, and usage instructions.
+### Data Cleaning
+In this phase, we performed comprehensive data cleaning and preprocessing using Python libraries. This step is essential for handling missing values, outliers, and ensuring data consistency. The cleaning process improved the quality of the data for subsequent analysis.
 
+### K-means Clustering Model
+We used Scikit-learn to build a K-means clustering model. This model categorizes companies based on their LinkedIn followers and employee count, allowing us to understand different company classes. The K-means model helped us gain insights into the job market and classify companies effectively.All these work's code can be found in **[Processing](Processing)** folder's  **[Data Preprocessing and Clustering.ipynb](Processing/Data%20Preprocessing%20and%20Clustering.ipynb)** file which took **[New Updated Csv.csv](Processing/New%20Updated%20Csv.csv)** as input Dataframe and Generated **[Processed_file.csv (Processing/Processed_file.csv)** with details of Job Class and Changes made in Data Cleaning.
 
-## Visuals
+## Website Development and Model Deployment
+
+The website development and model deployment phase involved creating an interactive website to present our insights and model results to users.
+
+### Frontend Development
+
+We designed and implemented the website's frontend using HTML and CSS. The website consists of three pages which are stored in [templates](Application/templates) :
+
+- **[first.html](Application/templates/first.html)**: The landing page where users input their skills.
+- **[second.html](Application/templates/second.html)**: A page that displays summarized job market insights.
+- **[Job_details.html](Application/templates/Job_details.html)**: A page presenting detailed job posting information.
+
+### Backend Integration
+
+The Flask application **[app.py](Application/app.py)** handles user inputs and connects the front end to the back end. It enables users to interact with the data, explore insights, and retrieve specific job details.
+
+## Additional Files
+
+- **[Job Analytics Presentation.pptx](Job%20Analytics%20Presentation.pptx)**: A presentation summarizing the project's details and key insights.
+
+<br>
+
+## Website Overview
+**Landing Page**
+- The landing page serves as the entry point for users. It's where users can input their skills and interests to explore job market insights.
+
 <p align="center"> 
-  <img src="https://user-images.githubusercontent.com/137817362/267353293-27d23cde-2fb6-49b6-98e4-2720931bb80c.png" style="display: inline-block; margin: 0 auto; width:600px;">
-
-   <br>
-   <img src="https://user-images.githubusercontent.com/137817362/267353688-45a6e12d-ee36-4c28-9b64-043621a4a833.png" style="display: inline-block; margin: 0 auto; width:600px;">  
+  <img src="https://user-images.githubusercontent.com/137817362/267758828-92c5904b-432c-4b54-9028-54b79d5c8d32.png" style="display: inline-block; margin: 0 auto; width:800px;">
 </p>
 
+**Summarized Insights Page**
+- The summarized insights page presents users with key information about the job market based on their input.
+<p align="center"> 
+   <img src="https://github.com/AmarjeetRoy/InstaHyre-Job-Analytics-Machine-Learning-/assets/137817362/9a133c9b-3ba2-458a-a585-a5d8036827f9" style="display: inline-block; margin: 0 auto; width:800px;">  
+</p>
+
+**Job Posting Details Page**
+- Detailed information about individual job postings, including job title, company name, location, required skills, and HR contact details.
+<p align="center"> 
+   <img src="https://github.com/AmarjeetRoy/InstaHyre-Job-Analytics-Machine-Learning-/assets/137817362/74d7f80d-5e05-441d-849e-252ee78c636e" style="display: inline-block; margin: 0 auto; width:1000px;">  
+</p>
+
+
 ## Key Findings
-1. **Most Common Experience Level**: The analysis reveals that "Mid-Level" is the most frequently required experience level for job postings, indicating a substantial number of opportunities in this category.
 
-2. **Top Industries**: The dominant industry in the job market is Information Technology (IT), followed by Finance, Healthcare, and Engineering.
+1. **Experience Level**: "Mid-Level" is the most common experience level in job postings.
 
-3. **Company Size and Job Availability**: Companies with moderate employee counts, such as 100-500 employees, have the highest number of job listings. This suggests that mid-sized companies offer significant employment opportunities.
+2. **Top Industries**: IT, Finance, Healthcare, and Engineering are the leading industries.
 
-4. **In-Demand Skills**: Key skills like Python, Java, SQL, and Data Analysis are highly sought after in job postings.
+3. **Company Size**: Companies with 100-500 employees have the most job listings.
 
-5. **Types of Involvement**: Full-time positions are the most common, reflecting a strong preference for full-time employment.
+4. **In-Demand Skills**: Python, Java, SQL, and Data Analysis are highly sought after.
 
-6. **HR Contact Information**: HR personnel contact information is available, enabling direct communication between job seekers and hiring managers.
+5. **Job Type**: Full-time positions dominate job postings.
 
-7. **Clustered Companies**: The project utilizes K-means clustering to categorize companies based on employee count and LinkedIn followers, aiding job seekers in targeting companies aligned with their career goals.
+6. **HR Contact**: HR contact information is available for direct communication.
 
-8. **User-Friendly Web Interface**: The project offers an interactive web interface for users to input their skills and receive summarized insights, including the most common experience level, top industries, and predominant company size in their field of interest.
-
-
-## Challeneges and Learnings 
+7. **Clustered Companies**: Companies are categorized using K-means clustering based on employee count and LinkedIn followers.
 
 
-## Usage
+## Project Summary
 
-1. Explore the extracted data and preprocessing steps in the `Extraction` and `Processing` directories.
-2. Dive into the interactive website in the `Application` directory, run `app.py`, and visit the local server.
-3. Gain insights into job market trends, industry preferences, and job posting details.
+The Instahyre Job Analytics project involved web scraping job posting data from Instahyre, followed by data preprocessing and clustering analysis. It culminated in the development of an interactive web application for users to explore job market insights.
 
-## Acknowledgments
+## Key Learnings
 
-Special thanks to the project providers for entrusting us with this opportunity. We also extend our gratitude to the supportive mentors and faculty members.
+- Automating web scraping for data acquisition.
+- Data preprocessing and clustering analysis techniques.
+- Web development for user-friendly data presentation.
 
-Thank you for your interest in the **Instahyre Job Analytics** project!
+## Challenges
 
+- Ensuring data consistency and accuracy.
+- Developing and fine-tuning the clustering model.
+- Creating an interactive web application.
+- Handling large data volumes while considering data privacy.
+
+In summary, the project successfully provided insights into the job market through data analysis and web development, despite various data-related challenges.
