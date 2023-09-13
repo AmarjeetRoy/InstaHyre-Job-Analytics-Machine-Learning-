@@ -11,7 +11,7 @@ Welcome to the **Instahyre Job Analytics** repository! This project revolves aro
 
 ## Aim
 The aim of the Instahyre Job Analytics project is two-fold. First, our goal is to build a model that can effectively summarize job posting data, providing users with a concise overview of job market trends. Second, we aim to create an interactive webpage that allows users to easily access and explore these job market insights. This project seeks to empower job seekers and recruiters with valuable information for informed decision-making.
-<br>
+<br><br>
 
 ## Project Overview
 
