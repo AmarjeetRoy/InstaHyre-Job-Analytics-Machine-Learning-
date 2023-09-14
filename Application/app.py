@@ -7,7 +7,9 @@ from fuzzywuzzy import process
 import pandas as pd
 
 app = Flask(__name__)
+
 import re
+# Importing File and Making list of all the Unique Skills we have in our data
 df=pd.read_csv(r"C:\Users\AMARJEET\Desktop\Masai\UNIT 5\ML Project\Instahyre Job Analysis\Application\Processed_file.csv")
 skills = [i.strip() for i in list(set(','.join(df['Skills']).split(',')))]
 df['Skills'].str.lower().str.split(',')
@@ -16,7 +18,7 @@ df['Skills'].str.lower().str.split(',')
 
 
 
-
+# Defining A DataFrame Function Which will take Skill as an input, will return DataFrame of Job Posting Matching the skills
 def data_frame(x):
 #   x = ' pyThon , abc, jaVa , SQL, xyz' 
     x = [i.strip() for i in x.lower().split(',')]   
@@ -53,15 +55,15 @@ def data_frame(x):
     else:
         return df1
 
-
+# Invoking first Webpage file
 @app.route('/')
 def index():
     return render_template("first.html")
 
-
+# Ivoking Second Webpage file
 @app.route('/final_output', methods=['POST'])
 
-
+# Again Defining final_output function which takes input from website calls data_frame functions and makes Summarized Details and Assign to instances
 def final_output():
     if request.method == 'POST':
         x = request.form.get("Traas")
@@ -80,14 +82,17 @@ def final_output():
                                    job_class=f"{company_class}",
                                    job_count=job_count)
 
-
+# Ivoking last/Final Webpage file
 @app.route('/job_details/<s_id>', methods=['GET'])
+
+# Defining the job_details Function which returns Last Pages result in Tabular Format using data_frame Function 
 def job_details(s_id):
     skill = s_id
     job_data = data_frame(skill)
     job_data=job_data[['Company Name','Designation',"Skills",'Location','Experience']]
     job_data=job_data.to_html(render_links=True, classes='table table-bordered', index=False)  # Filter the data based on the provided skill   
     return render_template("job_details.html", job_data=job_data)
-
+    
+# Enabling Debug option 
 if __name__ == "__main__":
     app.run(debug=True)
