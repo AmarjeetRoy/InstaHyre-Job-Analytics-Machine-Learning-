@@ -5,12 +5,15 @@
 
 Welcome to the **Instahyre Job Analytics** repository! This project revolves around comprehensively understanding the job market dynamics using data-driven insights. Our team, consisting of dedicated members, embarked on a journey to extract, preprocess, and analyze job posting data from Instahyre and LinkedIn, shedding light on the employment landscape.
 
+<br>
+
 ## 🧑🏽‍💻Team Members
 
 - Amarjeet Roy (My Self)
 - Priya Bhardwaj
 - Ajay Kumar
 - Bharat Sharma
+<br>
 
 ## 🎯Aim
 The aim of the Instahyre Job Analytics project is two-fold. First, our goal is to build a model that can effectively summarize job posting data, providing users with a concise overview of job market trends. Second, we aim to create an interactive webpage that allows users to easily access and explore these job market insights. This project seeks to empower job seekers and recruiters with valuable information for informed decision-making.
@@ -92,6 +95,7 @@ The Flask application **[`app.py`](Application/app.py)** handles user inputs and
    <img src="https://github.com/AmarjeetRoy/InstaHyre-Job-Analytics-Machine-Learning-/assets/137817362/74d7f80d-5e05-441d-849e-252ee78c636e" style="display: inline-block; margin: 0 auto; width:1000px;">  
 </p>
 
+<br>
 
 ## 📝Key Findings
 
@@ -109,18 +113,19 @@ The Flask application **[`app.py`](Application/app.py)** handles user inputs and
 
 7. **Clustered Companies**: Companies are categorized using K-means clustering based on employee count and LinkedIn followers.
 
+<br>
 
 ## 💼Project Summary
 
 The Instahyre Job Analytics project involved web scraping job posting data from Instahyre, followed by data preprocessing and clustering analysis. It culminated in the development of an interactive web application for users to explore job market insights.
 
-## 💡Key Learnings
+### 💡Key Learnings
 
 - Automating web scraping for data acquisition.
 - Data preprocessing and clustering analysis techniques.
 - Web development for user-friendly data presentation.
 
-## 🪨Challenges
+### 🪨Challenges
 
 - Ensuring data consistency and accuracy.
 - Developing and fine-tuning the clustering model.
