@@ -58,7 +58,7 @@ def data_frame(x):
 # Invoking first Webpage file
 @app.route('/')
 def index():
-    return render_template("first.html")
+    return render_template("index.html")
 
 # Ivoking Second Webpage file
 @app.route('/final_output', methods=['POST'])
