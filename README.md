@@ -3,17 +3,10 @@
 <img src="https://github.com/AmarjeetRoy/AmarjeetRoy/assets/137817362/089a3079-6ae4-4e1d-885a-6c162f720c66">
 <br><br>
 
-Welcome to the **Instahyre Job Analytics** repository! This project revolves around comprehensively understanding the job market dynamics using data-driven insights. Our team, consisting of dedicated members, embarked on a journey to extract, preprocess, and analyze job posting data from Instahyre and LinkedIn, shedding light on the employment landscape.
+Explore the Instahyre Job Analytics project, an exciting endeavor that unveils key insights from Instahyre job postings using data analytics, web scraping, and machine learning. Dive into the world of job market trends and classifications through this repository. Discover valuable trends, uncover opportunities, and engage with an interactive web application that simplifies job market navigation. Whether you're passionate about data analysis or on a job hunt, this project offers a wealth of insights. Join us on this data-driven journey!
 
 <br>
 
-## 🧑🏽‍💻Team Members
-
-- Amarjeet Roy (My Self)
-- Priya Bhardwaj
-- Ajay Kumar
-- Bharat Sharma
-<br>
 
 ## 🎯Aim
 The aim of the Instahyre Job Analytics project is two-fold. First, our goal is to build a model that can effectively summarize job posting data, providing users with a concise overview of job market trends. Second, we aim to create an interactive webpage that allows users to easily access and explore these job market insights. This project seeks to empower job seekers and recruiters with valuable information for informed decision-making.
